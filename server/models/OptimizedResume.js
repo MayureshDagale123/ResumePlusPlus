@@ -41,6 +41,7 @@ const OptimizedResumeSchema = new mongoose.Schema(
     resumeData: {
       personalInfo: {
         name:     { type: String, default: '' },
+        headline: { type: String, default: '' },
         email:    { type: String, default: '' },
         phone:    { type: String, default: '' },
         location: { type: String, default: '' },
@@ -59,6 +60,11 @@ const OptimizedResumeSchema = new mongoose.Schema(
     jobDescription: {
       type: String,
       default: '',
+    },
+    // The calculated real ATS score (0-100)
+    atsScore: {
+      type: Number,
+      default: 0,
     },
   },
   { timestamps: true }

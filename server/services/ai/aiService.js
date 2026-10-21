@@ -79,24 +79,45 @@ const validateResumeJSON = (data) => {
 // ─────────────────────────────────────────────────────────────────
 
 const buildOptimizePrompt = (resumeJSON, jobDescription) => `
-You are an expert ATS resume optimizer. Your task is to optimize the given resume for the provided job description.
+You are an elite ATS Resume Optimization Engine designed to produce resumes that achieve a 95+ score on enterprise ATS systems (Workday, Greenhouse, Lever, Taleo, iCIMS) and match our strict ATS scoring checklist.
 
-STRICT RULES:
-1. You MAY reword bullet points, improve phrasing, align keywords, reorder skills by relevance, and improve the summary.
-2. You MUST NOT invent new skills, experience, projects, certifications, education, or achievements not in the original resume.
-3. If the job description asks for a skill not in the original resume, do NOT add it.
-4. Preserve all factual information (company names, dates, degrees, etc.) exactly.
-5. Make the language more impactful and ATS-friendly.
-6. Return ONLY a valid JSON object — no markdown fences, no explanation, no extra text.
+STRICT ATS 90+ RULES BY SECTION:
+
+1. CONTACT INFO & HEADLINE (Must achieve 20/20 pts):
+   - Synthesize a sharp, job-tailored professional headline in personalInfo.headline (e.g. "Senior Full-Stack Engineer | React, Node.js & Distributed Systems").
+   - PRESERVE the candidate's exact name, email, phone, location, linkedin, and github from the original resume. DO NOT clear them out.
+
+2. PROFESSIONAL SUMMARY (Must achieve 15/15 pts):
+   - Write a compelling 45 to 80-word summary tailored to the target job description.
+   - ABSOLUTELY NO first-person pronouns: NEVER use "I", "me", "my", "we", or "our". Write in concise, authoritative professional voice highlighting years of value, core tech stack, and key impact.
+
+3. TECHNICAL & CORE SKILLS (Must achieve 20/20 pts):
+   - Provide an array of 12 to 20 relevant technical skills and domain keywords (e.g. ["React", "TypeScript", "Node.js", "Docker", "GraphQL", ...]).
+   - Retain the candidate's genuine skills from the original resume and supplement them with in-demand technical keywords from the job description.
+
+4. WORK EXPERIENCE (Must achieve 25/25 pts):
+   - Every single bullet point MUST begin with a high-impact action verb (e.g. Engineered, Architected, Spearheaded, Optimized, Scaled, Streamlined, Reduced, Accelerated, Automated, Deployed).
+   - Every role MUST feature quantifiable results and metrics using Google's XYZ formula: "Accomplished [X], measured by [Y], by doing [Z]" (e.g. "increasing throughput by 42%", "reducing API response latency from 450ms to 85ms", "scaling infrastructure to support 150k+ daily active users").
+   - Format descriptions as bullet lines separated by newlines (\\n).
+
+5. KEY PROJECTS (Must achieve 10/10 pts):
+   - Preserve all projects. Ensure each project has a clear name, a comma-separated techStack string (e.g. "React, Node.js, PostgreSQL, Docker"), and an action-oriented description highlighting architecture and results.
+
+6. EDUCATION & CREDENTIALS (Must achieve 10/10 pts):
+   - Faithfully preserve all education entries, degrees, schools, dates, certifications, and achievements without falsification.
+
+7. OUTPUT FORMAT:
+   - STRICT FACT PRESERVATION: Do NOT fabricate companies, dates, or degrees.
+   - Return ONLY a valid JSON object — no markdown fences, no backticks, no explanatory text.
 
 ORIGINAL RESUME (JSON):
 ${JSON.stringify(resumeJSON, null, 2)}
 
-JOB DESCRIPTION:
+TARGET JOB DESCRIPTION:
 ${jobDescription}
 
 Return the optimized resume as a single valid JSON object with exactly these keys:
-{"personalInfo":{"name":"","email":"","phone":"","location":"","linkedin":"","github":""},"summary":"","education":[],"skills":[],"experience":[],"projects":[],"certifications":[],"achievements":[]}
+{"personalInfo":{"name":"","headline":"","email":"","phone":"","location":"","linkedin":"","github":""},"summary":"","education":[],"skills":[],"experience":[],"projects":[],"certifications":[],"achievements":[]}
 `
 
 /**
@@ -118,11 +139,11 @@ const optimizeResume = async (resumeJSON, jobDescription) => {
 // ─────────────────────────────────────────────────────────────────
 
 const buildParsePrompt = (rawText) => `
-You are a resume parser. Extract structured information from the following resume text.
+You are an expert resume parser designed to extract ATS-ready structured data from resume text.
 
 STRICT RULES:
 1. Extract ONLY information explicitly present in the text.
-2. Do NOT invent or infer information not clearly stated.
+2. For headline, extract their current title or target professional headline if stated.
 3. For missing fields, use "" for text fields and [] for arrays.
 4. Return ONLY a valid JSON object — no markdown fences, no explanation.
 
@@ -130,7 +151,7 @@ RESUME TEXT:
 ${rawText}
 
 Return a JSON object with exactly these keys:
-{"personalInfo":{"name":"","email":"","phone":"","location":"","linkedin":"","github":""},"summary":"","education":[{"school":"","degree":"","field":"","startYear":"","endYear":"","grade":""}],"skills":[],"experience":[{"company":"","title":"","location":"","startDate":"","endDate":"","current":false,"description":""}],"projects":[{"name":"","description":"","techStack":"","link":""}],"certifications":[{"name":"","issuer":"","year":""}],"achievements":[{"title":"","description":""}]}
+{"personalInfo":{"name":"","headline":"","email":"","phone":"","location":"","linkedin":"","github":""},"summary":"","education":[{"school":"","degree":"","field":"","startYear":"","endYear":"","grade":""}],"skills":[],"experience":[{"company":"","title":"","location":"","startDate":"","endDate":"","current":false,"description":""}],"projects":[{"name":"","description":"","techStack":"","link":""}],"certifications":[{"name":"","issuer":"","year":""}],"achievements":[{"title":"","description":""}]}
 `
 
 /**

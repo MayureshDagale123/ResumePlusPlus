@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 import { AuthProvider } from './context/AuthContext'
+import { ThemeProvider } from './context/ThemeContext'
 import CursorSpotlight from './components/CursorSpotlight'
 import AppLoader from './components/AppLoader'
 import ProtectedRoute from './components/ProtectedRoute'
@@ -31,39 +32,41 @@ function App() {
   }, [])
 
   return (
-    <AuthProvider>
-      <BrowserRouter>
-        <CursorSpotlight />
-        {loading ? (
-          <AppLoader />
-        ) : (
-          <Routes>
-            {/* Public routes */}
-            <Route element={<PublicLayout />}>
-              <Route path="/" element={<Landing />} />
-              <Route path="/register" element={<Register />} />
-              <Route path="/login" element={<Login />} />
-              <Route path="/auth/callback" element={<GoogleCallback />} />
-            </Route>
+    <ThemeProvider>
+      <AuthProvider>
+        <BrowserRouter>
+          <CursorSpotlight />
+          {loading ? (
+            <AppLoader />
+          ) : (
+            <Routes>
+              {/* Public routes */}
+              <Route element={<PublicLayout />}>
+                <Route path="/" element={<Landing />} />
+                <Route path="/register" element={<Register />} />
+                <Route path="/login" element={<Login />} />
+                <Route path="/auth/callback" element={<GoogleCallback />} />
+              </Route>
 
-            {/* Protected routes — ProtectedRoute handles auth check and renders AuthLayout */}
-            <Route element={<ProtectedRoute />}>
-              <Route path="/dashboard" element={<Dashboard />} />
-              <Route path="/jobs" element={<FindJobs />} />
-              <Route path="/jobs/saved" element={<SavedJobs />} />
-              <Route path="/job/:id" element={<JobDetails />} />
-              <Route path="/resume/create" element={<CreateResume />} />
-              <Route path="/resume" element={<MyResume />} />
-              <Route path="/resume/optimized/:id" element={<OptimizedResumePreview />} />
-              <Route path="/optimizer" element={<Optimizer />} />
-            </Route>
+              {/* Protected routes — ProtectedRoute handles auth check and renders AuthLayout */}
+              <Route element={<ProtectedRoute />}>
+                <Route path="/dashboard" element={<Dashboard />} />
+                <Route path="/jobs" element={<FindJobs />} />
+                <Route path="/jobs/saved" element={<SavedJobs />} />
+                <Route path="/job/:id" element={<JobDetails />} />
+                <Route path="/resume/create" element={<CreateResume />} />
+                <Route path="/resume" element={<MyResume />} />
+                <Route path="/resume/optimized/:id" element={<OptimizedResumePreview />} />
+                <Route path="/optimizer" element={<Optimizer />} />
+              </Route>
 
-            {/* 404 */}
-            <Route path="*" element={<NotFound />} />
-          </Routes>
-        )}
-      </BrowserRouter>
-    </AuthProvider>
+              {/* 404 */}
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          )}
+        </BrowserRouter>
+      </AuthProvider>
+    </ThemeProvider>
   )
 }
 

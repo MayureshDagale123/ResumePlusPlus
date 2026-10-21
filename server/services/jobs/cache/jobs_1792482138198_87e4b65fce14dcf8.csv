@@ -1,0 +1,896 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-a766599994e61978,indeed,https://www.indeed.com/viewjob?jk=a766599994e61978,https://jobs.ashbyhq.com/sol/7a424d8c-d0f4-4170-bf1a-392abf16e609?utm_source=JR27yGwEP9,Field HR Product Architect,Sol,"San Mateo, CA, USA",2026-10-20,fulltime,direct_data,yearly,200000.0,250000.0,USD,False,,,,,"**About Sol**
+-------------
+
+Sol is an agentic HR system built for how work is changing. We're replacing the traditional HRIS with an AI-native foundation. We are built for change, designed to scale, and reimagined with AI from the ground up, so HR leaders get a clear view of their workforce instead of a system everyone works around.
+
+At Sol, we're guided by three things: **people:** we hire driven, humble people and build to amplify their potential and our customers'; **imagination:** we challenge assumptions about our industry and how software gets built, then move fast once we've decided; and **durability:** we sweat the details to build a company that is meant to last. Day to day, that shows up as a bias toward writing things down over meetings, async communication by default, and flexible hours that respect how differently everyone works. We try new things, kill what isn't working, and hold a high bar without the politics or ego that slow good decisions down.
+
+Sol was founded by leaders who spent decades building the modern HR category, and is backed by Sutter Hill Ventures and NEA. Our first customers go live in early 2027 and we need you to make them wildly successful.
+
+**THE ROLE**
+------------
+
+Implementing an HRIS today means months of workshops, spreadsheets, hand-built configuration, and testing, and most of what the company learned about itself leaves with the project team. Sol is built to change that. Our agent learns what a company is trying to achieve, guides it through the right questions, and infers what it can from existing systems and documents. People confirm and verify instead of handcrafting every setting, and the system keeps learning long after go-live.
+
+You'll lead our first customer go-lives, starting in early 2027. Your job is to make each customer successful: live on schedule, and working differently because you were there. You'll drive the implementation process and design, paired with a Forward Deployed Engineer on data migration and integrations, and advise customers on best practices and what a new HR operating model looks like when the system does more of the work.
+
+You're also an extension of the product team. You'll be one of Sol's first users, an expert on what it can do, and the person who brings what you learn from every customer back to product and engineering. What you learn also teaches Sol's agent: you'll shape what it asks, what it recommends, and which decisions it makes on its own.
+
+The role is a mix of strategy consulting, project management, hands-on configuration, product management, and product acceptance testing. You may know this kind of role as forward deployed, deployment strategist, or implementation lead.
+
+This role is hybrid: onsite 3 days in San Mateo to start and then San Francisco (we move next summer).
+
+**WHAT YOU'LL DO**
+------------------
+
+* **Scope each engagement.** Starting in pre-sales, assess fit and go-live readiness honestly, and decide what's in the first wave, what follows, and what the customer drives themselves.
+* **Keep go-lives fast.** Getting customers live in a fraction of the time other systems take is core to Sol's value. Run the plan, chase decisions, clear blockers, and escalate early when something threatens the date.
+* **Guide process design.** Learn how work moves through the company today, including the steps outside any system, and decide the best form for each piece in Sol: configuration, a workflow, context for the agent, or left as is for now. Some customers need a light touch; others need an opinionated perspective.
+* **Lead change management.** Align stakeholders across HR, Finance, Legal, and IT. Run exec comms, a steering cadence, UAT, and sign-off discipline so decisions stick.
+* **Shape the product.** Work with product and engineering regularly on what you're seeing in the field, and help decide what we build and automate next.
+* **Teach the agent.** Review what Sol's agent learns from each engagement, and help decide when it's ready to make a call on its own.
+* **Test before customers do.** Use new capability as it's built, and validate it against what our customers need.
+* **Hand off cleanly.** Partner with your FDE through testing, cutover, and hypercare, then roll off once the customer is stable and running on their own.
+
+**WHAT WE'RE LOOKING FOR**
+--------------------------
+
+* Mid-to-senior HR Operations or HRIS experience, including leading HRIS implementations more than once. Ideally Workday or comparable (Dayforce, UKG, Oracle) at companies of 1,000+ employees.
+* You've lived with the system after go-live, and you know which design decisions hold up through the next comp cycle or audit. An HR Ops background is preferred; consultants who led design are welcome too.
+* You understand how org structure, jobs and positions, compensation, time and leave, and payroll and benefits data depend on each other.
+* You're comfortable telling a stakeholder no on scope, and you can keep a project on time without losing the room.
+* You write clearly, and you can turn messy implementation reality into something product and engineering can act on.
+* You're excited about what AI does to this work, including the parts of your own job it will take over.
+* You're high agency and comfortable building the playbook as you go.
+* **Bonus:** you've built a job architecture from scratch, or worked at a high-growth tech company or early-stage startup.
+
+**WHY NOW**
+-----------
+
+We're early. Our first customers go live in early 2027, and how those go-lives run will set the model for every customer after them. This is the chance to fix the implementation you always wished you'd had, from the vendor side, with the product team listening. Real ownership from the first week, and a short path to a decision when you need one.
+
+**COMPENSATION AND BENEFITS**
+-----------------------------
+
+* Base range: $200,000-$250,000 and significant early-stage equity
+* Medical, dental and vision coverage
+* Mental health support (Talkspace), fertility care (Kindbody) and primary care access (Teladoc, One Medical)
+* FSA and dependent care accounts
+* Life and disability insurance
+* 401(k)
+* Untracked PTO and company holidays
+
+Sol is an equal opportunity employer. We don't discriminate on the basis of race, color, religion, sex, national origin, age, disability, genetic information, sexual orientation, gender identity or expression, marital status, veteran status, or any other characteristic protected by applicable federal, state, or local law. We're committed to building an inclusive workplace and providing reasonable accommodations to qualified individuals with disabilities.",,https://www.indeed.com/cmp/Sol,,http://sol.com,"Mumbai, India",,,,,,3.4,83.0,,
+in-1a7420847497c556,indeed,https://www.indeed.com/viewjob?jk=1a7420847497c556,https://apply.workable.com/j/99BA86D1FE,Databricks Forward Deployed Engineer,Revstar,"AZ, USA",2026-10-19,fulltime,,,,,,True,,,,hr@revstarconsulting.com,"**Build What Matters at RevStar**
+
+**Position:** Databricks Forward Deployed Engineer (FDE)
+
+* **Reports To:** Product Manager/Engineering Lead
+* **Location**: Remote (AZ, FL, TX)
+* **Employment Type:** Full-Time W2
+
+**Job Summary**
+
+At RevStar, we build cutting-edge cloud, data, and Generative AI solutions that transform how enterprise organizations operate. As a strategic partner in the AWS and Databricks ecosystems, we don’t just deliver code—we solve complex business problems, modernize legacy data estates, and deploy production-grade AI applications that drive real business value.
+
+We are seeking a Databricks Forward Deployed Engineer (FDE) to join our growing Data & AI Practice. In this highly visible role, you will work embedded directly at the intersection of technical architecture, hands-on engineering, and executive client engagement.
+
+As an FDE, you are both a master builder and a trusted technical advisor. You will own the full delivery lifecycle for high-impact enterprise accounts—designing scalable data foundations, implementing cutting-edge Generative AI solutions, and migrating complex workloads onto the Databricks Lakehouse platform. Simultaneously, you will drive customer adoption and consumption growth by identifying new use cases and building strategic alignment with client technical leadership.
+
+**Our Core Values:**
+
+* **Self-Mastery**: We hold a high bar for how we think, communicate, and improve.
+* **Ownership**: We own outcomes, not just effort.
+* **Shared Destiny**: We rise or fall together.
+
+Key Responsibilities
+
+* **Hands-on Solution Architecture & Engineering**: Design, build, and deploy production-grade data pipelines, analytics engines, and Generative AI/LLM applications using the Databricks platform, Spark, Python/PySpark, and modern cloud ecosystems (AWS/Azure/GCP).
+* **Enterprise Customer Delivery**: Serve as the primary technical leader on strategic enterprise client engagements. Partner with C-level executives, VP/Directors of Data, and engineering teams to translate business challenges into high-performing technical solutions.
+* **Databricks Migration & Estate Modernization**: Lead complex legacy platform migrations (e.g., Snowflake, Teradata, legacy Hadoop, SQL Server) onto the Databricks Lakehouse architecture.
+* **GenAI & Advanced Analytics Implementation:** Guide enterprise customers (Healthcare, Retail, Financial Services, etc.) in adopting GenAI solutions, RAG architectures, model fine-tuning, and MLflow/Databricks Mosaic AI integrations.
+* **Drive Platform Adoption & Growth:** Partner with account leadership to identify new, high-value technical use cases across client business units, expanding Databricks platform usage and driving measurable ROI for clients.
+* **Technical Mentorship & Practice Building:** Mentor and coach junior Solution Engineers, Architects, and Consultants. Contribute to internal RevStar code libraries, reusable accelerators, and technical delivery best practices.
+
+  
+**Requirements**  
+  
+Technical Expertise:
+
+* 5+ years of hands-on experience in Data Engineering, Machine Learning, or Solutions Architecture.
+* 3+ years of deep technical experience within the Databricks Ecosystem (Delta Lake, Unity Catalog, MLflow, Spark/PySpark, Databricks Workflows/Jobs, Mosaic AI).
+* Generative AI / ML: Practical experience designing and deploying RAG pipelines, fine-tuning LLMs, working with vector databases, and managing ML pipelines end-to-end.
+* Cloud Architecture: Strong expertise in cloud-native architectures (AWS preferred—S3, Glue, Lambda, Redshift, etc.).
+* Data Migration: Proven track record of migrating enterprise legacy data warehouses/lakes onto Databricks.
+* Databricks Certifications: Databricks Certified Data Engineer Professional and/or Machine Learning Professional preferred.
+
+Client & Business Acumen:
+
+* Enterprise Experience: Demonstrated track record of leading technical delivery for Fortune 500 or large enterprise clients (Healthcare, Retail, Consumer Goods experience is a strong plus).
+* Consulting & Customer-Facing Skills: Exceptional verbal and written communication skills; comfortable presenting technical architecture, building POCs/demos, and managing client stakeholders up to the C-suite.
+* Growth Mindset: Ability to spot technical expansion opportunities within existing client accounts and serve as a technical advocate to grow account footprint.
+
+  
+**Benefits**  
+
+* **Paid Time Off** – Take the time you need to recharge and stay productive.
+* **Remote-First Working Environment** – Collaborate from anywhere while staying connected with our global team.
+* **Comprehensive Health Coverage** – Medical, Dental, Vision
+* **401(k) Retirement Plan** – Plan for your future with access to a company-sponsored 401(k) program.
+* **Annual Learning & Development Stipend** – Invest in your skills with conferences, certifications, or courses.
+* **Peer Mentorship & Coaching** – Learn from experienced engineers, product managers, and architects to accelerate your growth.
+* **Professional Growth Opportunities** – Exposure to cutting-edge AWS GenAI, data, and cloud technologies across diverse industries.
+* **Company Outings & Volunteer Opportunities** – Build relationships and give back to the community.
+* **Collaborative, Innovative Culture** – Work alongside top talent in a fast-paced, supportive environment that values curiosity and initiative.
+
+**Equal Opportunity Employment**
+
+At RevStar, we don’t just accept differences — we celebrate them, we support them, and we thrive on them for the benefit of our employees, our customers, and our community. RevStar is proud to be an equal opportunity workplace.
+
+**Reasonable Accommodations**
+
+RevStar is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, contact HR at hr@revstarconsulting.com.
+
+**E-Verify**
+
+Our company participates in E-Verify to confirm work authorization for all newly hired U.S. employees; this process applies strictly to direct W-2 hires and is not applicable to independent contractor roles.",,https://www.indeed.com/cmp/Revstar,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f66e931ee8f79b1262506fc29d65de44,https://revstarconsulting.com/,"5401 W Kennedy Blvd Ste 100
+Tampa, FL 33609",51 to 200,,RevStar Consulting is a dynamic and innovative consulting firm that specializes in providing strategic solutions to propel businesses forward.,,,5.0,1.0,,
+in-fc8248b366bb74ae,indeed,https://www.indeed.com/viewjob?jk=fc8248b366bb74ae,https://careers.radnet.com/jobs/22907/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,Forward Deployment Eng Rpt Pro,RadNet,"Somerville, MA, USA",2026-10-17,fulltime,direct_data,yearly,125000.0,145000.0,USD,True,,,,,"Job Description:
+
+The Forward Deployment Engineer, Reporting Pro helps customers adopt DeepHealth’s Reporting Pro correctly. The role combines radiology reporting depth, clinical workflow knowledge and customer communication to design how Reporting Pro is configured for each customer, build report templates and structured reporting content with radiologists, coach implementation teams, resolve complex technical issues, and turn recurring field needs into standard product workflows, including AI-assisted report drafting as it is released.
+
+This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence, and working closely with the DxS lead Forward Deployment Engineer. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness.
+
+**Essential Duties and Responsibilities**
+
+* Own technical solution design and configuration of Reporting Pro for assigned customers, mapping reporting workflow to configuration (report templates, macros, structured reporting, speech recognition, sign-off and addendum rules, critical results, user roles).
+* Lead technical discovery with customers and implementation teams, covering reporting workflow, legacy reporting systems, HL7 order and result flows, report distribution to RIS and EHR, network and security requirements.
+* Build and validate report templates and structured reporting content with radiologists, and plan migration of templates and macros from legacy reporting systems through cutover.
+* Partner with the assigned implementation counterpart for this workstream to adopt learnings and best practices into customer configuration and implementations; train and coach implementation teams and customer reporting administrators on correct configuration; publish configuration standards, template libraries and deployment playbooks.
+* Serve as customer-facing technical lead during go-lives, hypercare and escalations, communicating status, options and expectations to clinical and IT stakeholders.
+* Provide implementation support as the L3 escalation point for Reporting Pro issues in assigned accounts, including report delivery failures, root cause analysis and resolution with engineering (approximately 20–30% of time).
+* Convert recurring customer needs into standardized workflows and product requirements, distinguishing product gaps from configuration or training issues.
+* Own escalation of engineering issues for assigned accounts: triage, document reproducible defects, track status with engineering and close the loop with customers.
+* Support site reliability (SRE) for assigned accounts: monitor service health with observability tools, participate in incident response and drive reliability improvements with engineering.
+* Own the AI adoption strategy for Reporting Pro: define requirements, expected customer impact and success criteria, and feed them back to Product and Engineering.
+* Configure, deploy and support customer adoption of AI-enabled reporting workflows (e.g., AI report drafting using priors and clinical data) as they are released, coordinating rollout, site readiness and customer adoption with the Technical Delivery Manager and Product Manager.
+* Validate releases and hotfixes against representative customer configurations before and after deployment.
+
+PLEASE NOTE: This is not an exhaustive list of all duties, responsibilities and requirements of the position described above. Other functions may be assigned and management retains the right to add or change duties at any time.
+
+**Job requirements**
+--------------------
+
+**Minimum Qualifications, Education and Experience**
+
+* Bachelor’s degree in Computer Science, Biomedical Engineering, Health Informatics, Information Systems or a related field, or an equivalent combination of education and experience (required).
+* 8+ years of overall experience in healthcare IT, medical imaging or clinical systems (required).
+* 5+ years in a customer-facing technical role for radiology reporting systems (e.g., PowerScribe, Fluency or similar), such as reporting system administrator, applications/technical consultant, implementation engineer or L3 engineer (required).
+* Working knowledge of HL7 v2 (ADT, ORM, ORU), including how orders link to reports and how signed reports, addenda and corrections are distributed to RIS and EHR (required).
+* Hands-on configuration of report templates, macros, structured reporting and speech recognition, including at least one reporting system go-live or migration (required).
+* Strong understanding of radiology clinical workflow, including RIS, worklists, reading, dictation, sign-off and critical results communication (required).
+* Working knowledge of cloud-hosted applications (GCP, AWS or Azure), storage, networking and SSO/authentication (required).
+* Demonstrated ability to communicate technical decisions to radiologists, IT leaders and executives, including in escalated situations (required).
+* Imaging informatics or clinical credential such as CIIP, PARCA or ARRT(R) (preferred).
+* Experience with AI-assisted or LLM-based report generation in radiology, and working knowledge of DICOM and PACS integration (preferred).
+* Experience in a regulated medical device environment (FDA 21 CFR 820, ISO 13485, IEC 62304).
+* Microsoft Office experience required.
+
+**Quality Standards**
+
+* Communicates, cooperates, and consistently functions professionally and harmoniously with all levels of supervision, co-workers, visitors, and vendors.
+* Demonstrates initiative, personal awareness, professionalism and integrity, and exercises confidentiality in all areas of performance.
+* Follows all local, regional and country laws concerning employment.
+* Follows all DeepHealth policies and procedures.
+* Follows data privacy, compliance, safety and confidentiality standards at all times.
+* Practices universal safety precautions.
+* Promotes good public relations on the phone and in person.
+* Adapts and is willing to learn new tasks, methods, and systems.
+* Reports to work regularly as scheduled; consistently punctual with respect to working hours, meal and rest breaks, and maintains satisfactory personal attendance in accordance with DeepHealth guidelines.
+* Completes job responsibilities in a quality and timely manner.
+
+**Travel**
+
+This position requires domestic / international travel up to 25%, primarily for customer discovery, go-lives and escalations.
+
+**Working Environment**
+
+Remote (United States)
+
+**Salary Range:**
+
+$125,000.00-$145,000.00
+
+Pay Range: USD $125,000.00 - USD $145,000.00 /Yr.",Health Care,https://www.indeed.com/cmp/Radnet,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4651e737e02806d346ade5bc45c8315e,https://www.radnet.com,"1510 Cotner Avenue
+Los Angeles, CA 90025","5,001 to 10,000",$1B to $5B (USD),"RadNet is the largest outpatient diagnostic imaging provider in the U.S., delivering advanced imaging services and AI-driven solutions to improve patient care and transform radiology.",,,2.5,1159.0,,
+in-2ad55c1864d1dcbc,indeed,https://www.indeed.com/viewjob?jk=2ad55c1864d1dcbc,https://careers.radnet.com/jobs/22909/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,Senior Forward Eng Diagnostic,RadNet,"Somerville, MA, USA",2026-10-17,fulltime,direct_data,yearly,135000.0,150000.0,USD,True,,,,,"Job Description:
+
+**Job description**
+-------------------
+
+The Senior Forward Deployment Engineer, DxS helps customers adopt DeepHealth’s Diagnostic Suite (DxS) correctly as one integrated solution. The role owns the end-to-end technical design across core PACS, Viewer, Reporting, integrations and AI for assigned customers, leads the product-area FDEs, coaches implementation teams, resolves complex cross-component issues, and turns recurring field needs into standard product workflows.
+
+This is an individual contributor role with no direct reports, reporting to the Service Engineering Lead, Enterprise Intelligence. It operates within DeepHealth’s Forward Deployment Engineering (FDE) function, whose purpose is to help customers adopt DeepHealth products correctly. The role sits at the intersection of the Technical Delivery Manager (TDM), Product, Service and Solution Delivery teams to ensure smooth customer adoption. It transitions best practices to the Service and Solution Delivery teams and plans upcoming product changes with them to ensure commercial readiness.
+
+**Essential Duties and Responsibilities**
+
+* Own end-to-end technical solution design of the Diagnostic Suite for assigned customers, combining core PACS, Viewer, Reporting, integrations and AI into one clinical workflow.
+* Lead suite-level technical discovery with customers and implementation teams, and produce the solution design and configuration plan used for implementation.
+* Lead the product-area FDEs (Reporting Pro, Viewer, HL7 Integration) and own OS/Core PACS configuration directly, to deliver a consistent customer solution.
+* Partner with the assigned implementation counterpart for this workstream to adopt learnings and best practices into customer configuration and implementations; train and coach implementation teams on suite-level configuration standards; maintain reference architectures and deployment playbooks.
+* Serve as customer-facing technical lead during go-lives, hypercare and escalations that span multiple components.
+* Provide technical support to the implementation teams for cross-component issues in assigned accounts, including root cause analysis and resolution with engineering (approximately 20–30% of time).
+* Convert recurring customer needs into standardized workflows and product requirements, distinguishing product gaps from configuration or training issues.
+* Own the AI adoption strategy across the DxS suite: define requirements, expected customer impact and success criteria, and feed them back to Product and Engineering.
+* Support customer adoption of AI-enabled workflows across the suite as they are released, coordinating rollout, site readiness and customer adoption with the Technical Delivery Manager and Product Manager.
+* Own escalation of engineering issues for assigned accounts: triage, document reproducible defects, track status with engineering and close the loop with customers.
+* Support site reliability (SRE) for assigned accounts: monitor service health with observability tools, participate in incident response and drive reliability improvements with engineering.
+
+*PLEASE NOTE: This is not an exhaustive list of all duties, responsibilities and requirements of the position described above. Other functions may be assigned and management retains the right to add or change duties at any time.*
+
+**Job requirements**
+--------------------
+
+**Minimum Qualifications, Education and Experience**
+
+* Education: Bachelor’s degree in Computer Science, Biomedical Engineering, Health Informatics, Information Systems or a related field, or an equivalent combination of education and experience (required).
+* Experience: 8+ years of overall experience in healthcare IT, medical imaging or clinical systems (required).
+* Experience: 5+ years in a customer-facing technical role across multiple enterprise imaging components (PACS, viewer, reporting, RIS), such as solutions engineer, technical consultant or senior implementation engineer (required).
+* In-depth knowledge of DICOM and HL7 v2, and how they connect across the radiology order-to-report workflow (required).
+* Hands-on configuration of PACS and diagnostic viewers, and experience integrating radiology reporting systems such as PowerScribe (required).
+* Strong understanding of end-to-end radiology clinical workflow, including RIS, worklists, reading, reporting and results distribution (required).
+* Working knowledge of cloud-hosted applications (GCP, AWS or Azure), networking, storage and SSO/authentication (required).
+* Demonstrated ability to communicate technical decisions to radiologists, IT leaders and executives, including in escalated situations (required).
+* Imaging informatics or clinical credential such as CIIP, PARCA or ARRT(R) (preferred).
+* Experience deploying or supporting clinical AI applications in radiology (preferred).
+* Experience in a regulated medical device environment (FDA 21 CFR 820, ISO 13485, IEC 62304) and with ITIL practices (preferred).
+* Microsoft Office experience required.
+
+**Quality Standards**
+
+* Communicates, cooperates, and consistently functions professionally and harmoniously with all levels of supervision, co-workers, visitors, and vendors.
+* Demonstrates initiative, personal awareness, professionalism and integrity, and exercises confidentiality in all areas of performance.
+* Follows all local, regional and country laws concerning employment.
+* Follows all DeepHealth policies and procedures.
+* Follows data privacy, compliance, safety and confidentiality standards at all times.
+* Practices universal safety precautions.
+* Promotes good public relations on the phone and in person.
+* Adapts and is willing to learn new tasks, methods, and systems.
+* Reports to work regularly as scheduled; consistently punctual with respect to working hours, meal and rest breaks, and maintains satisfactory personal attendance in accordance with DeepHealth guidelines.
+* Completes job responsibilities in a quality and timely manner.
+
+**Travel**
+
+* This position requires domestic / international travel up to 25%, primarily for customer discovery, go-lives and escalations.
+
+**Working Environment**
+
+* Remote (United States)
+
+Salary
+
+Dependent upon experience:
+
+135,000-150,000 USD
+
+Pay Range: USD $135,000.00 - USD $150,000.00 /Yr.",Health Care,https://www.indeed.com/cmp/Radnet,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4651e737e02806d346ade5bc45c8315e,https://www.radnet.com,"1510 Cotner Avenue
+Los Angeles, CA 90025","5,001 to 10,000",$1B to $5B (USD),"RadNet is the largest outpatient diagnostic imaging provider in the U.S., delivering advanced imaging services and AI-driven solutions to improve patient care and transform radiology.",,,2.5,1159.0,,
+in-52ed3eaeaf134cc0,indeed,https://www.indeed.com/viewjob?jk=52ed3eaeaf134cc0,https://jobs.ashbyhq.com/openloophealth/8fe2c713-5a6a-4065-ae4f-3dcb269aad4f?utm_source=bVeGGvWMyo,Forward Deployed Engineer,OpenLoop Health,"Des Moines, IA, USA",2026-10-05,fulltime,,,,,,True,,,,,"**About OpenLoop**
+------------------
+
+OpenLoop was co-founded by CEO, Dr. Jon Lensing, and COO, Christian Williams, with the vision to bring care anywhere. Our telehealth support solutions are thoughtfully designed to streamline and simplify go-to-market care delivery for companies offering meaningful virtual support to patients across an expansive array of specialties, in all 50 states.
+
+### **About the Role**
+
+Forward Deployed Engineering is how we build that platform with real clients instead of guessing. An FDE embeds with a client, works in the client's own codebase, and builds their integration against OpenLoop's production API. Whatever the client needs that the platform cannot do yet is filed as a platform gap and built once, centrally, so every client inherits it. The work product of an FDE is not the client's integration; it is the reusable asset that client forced into existence: a recipe others start from, an executable check behind every claim in our docs, a client manifest that makes the impact of any platform change computable, and the SDKs, agents and tooling that make the next deployment faster than the last.
+
+You will write production code in two places, the client's system and ours. You will take an ask that is vague or over-promised and turn it into a scope you can defend. You will tell a client, and our own sales team, when something should not be committed to. And you will leave every deployment better instrumented than you found it, so the next client needs less of us than the last one did.
+
+We are hiring for this role at the Senior, Staff and Senior Staff levels. Apply once; we will calibrate level during the process based on the scope you have carried, not on years alone. The section below describes what changes as scope grows.
+
+### **What You'll Do**
+
+* Build for clients, in their codebase, against our API. Embed with a client's engineering team and stand up their integration on OpenLoop's Partner API: their app, their data, their identity, their legacy systems. Own the outcome through go-live and the weeks after it. Never wire around the platform: where the API falls short, file the gap with the endpoint it stands in for, and leave a dated, time-boxed workaround at most.
+* Build with AI in the loop, for clients and for us. Ship the systems that let a client build on us with AI in the loop: SDKs and reference implementations, a CLI and machine-readable docs a client can hand to their own coding agent, and agentic workflows on our API such as intake, routing, support and refill journeys, with human review by design, evaluations before launch and monitoring after.
+* Run deployments on the agent roster, and make it better. Use and extend the agents that run our deployments: the tenant readiness gate, conformance checks against a live tenant, seeding checkers, docs-freshness and superseding drafts, gap filing, client communication drafts. Every agent output is a draft a human approves, and you are accountable for knowing when the agent is wrong.
+* Turn one client's need into every client's capability. Contribute additive recipes and checks to the shared cookbook, keep client manifests current, and bring the evidence that moves a recurring workaround into the platform roadmap instead of into another workaround. The measure is how much less of us the next client needs.
+* Turn ambiguity into a plan. Take a client ask that is vague, over-promised or self-contradictory and produce a phased, defensible scope, with a clear statement of what we are not doing and what the API does not do yet.
+* Never undo prior work. Checks lock the claims we publish; manifests tell you who depends on what; edits are additive or explicitly superseding with a compatibility window. A change that would break a live client stops and becomes a proposal, not a merge.
+* Hold the line, internally and externally. Be the credible technical voice with client engineering and with our own go-to-market team: what we cannot do, what we should not do, and what will not fit the timeline are three different answers, and all three are better delivered early.
+* Raise the bar around you. Share what a deployment taught you, review other people's integration designs, and help write the playbook for a team that is being built now.
+
+### **Who You Are**
+
+* 5 to 15+ years of software engineering experience, including significant time delivering directly for external customers or partners, in their environments, not only internal roadmap work. We are filling roles across this range; depth of ownership matters more to us than the number.
+* End-to-end ownership of complex, customer-facing technical delivery: you can name the deployments you ran, what went wrong, and what you did about it after launch.
+* Strong integration engineering depth: API design and consumption, auth, webhooks versus polling, idempotency, rate limits, pagination, schema drift, reconciliation, and comfort across the stack from APIs to data to cloud infrastructure.
+* You build with AI agents every day and can show how you verify what they produce, when you stop trusting them, and how you evaluate an LLM-based system before it reaches a customer.
+* Experience handling sensitive data with a security-first mindset, treating compliance constraints as design inputs rather than follow-ups.
+* Excellent communication with technical and non-technical audiences, including delivering unwelcome news to a customer early and keeping the relationship.
+* Demonstrated judgment about scope: you can point to things you descoped, sequenced or declined, and explain why.
+* Evidence of leverage beyond your own delivery: SDKs, tooling, checks, reference implementations or practices you built that made other people's work faster. The scale of that leverage is part of how we calibrate level.
+
+**Preferred**
+
+* Experience in healthcare or another regulated domain where a mistake has consequences beyond a rollback.
+* Practical experience shipping LLM-based or agentic systems to production, including how you measured quality and what you did when the model was confidently wrong.
+* Experience building developer platforms: SDKs, CLIs, API conventions, documentation that is tested rather than written.
+* Familiarity with EHR, scheduling, pharmacy or payments integrations; FHIR is a plus.
+* Experience working alongside sales or solutions teams in pre-sales technical conversations without becoming a blocker.
+* Bachelor's degree in Computer Science, Engineering or a related technical field, or equivalent practical experience.
+
+### **How You Work**
+
+OpenLoop's values are prescriptive, and this role tests all of them:
+
+Disciplined Intensity: effective under real deadline pressure, and you build systems instead of becoming the only person who can fix things.
+
+Do No Harm: patient safety and data integrity come first, and you know when to slow down to do it right.
+
+Step In, Stay In: your ownership travels to the outcome, not to the handoff.
+
+Purposeful Speed: you ship fast without leaving behind something only you can maintain.
+
+Clarity Over Comfort: you say the thing, explain the why, and invite disagreement.
+
+Core collaboration hours are CST 8am to 5pm, with client-facing work occasionally requiring flexibility outside them. Remote within the United States; periodic travel to clients and to team working sessions.
+
+**Our Benefits**
+----------------
+
+In addition, for salaried positions you would also be eligible for:
+
+* Medical, Dental, and Vision plans
+* Flexible Spending/Health Savings Accounts
+* Flexible PTO
+* 401(k) + Company Match
+* Life Insurance, Pet insurance, and more
+
+**Our Company**
+---------------
+
+We have a relatively flat organizational structure here at OpenLoop. Everyone is encouraged to bring ideas to the table and make things happen. This fits in well with our core values of Autonomy, Competence and Belonging, as we want everyone to feel empowered and supported to do their best work.
+
+Sound like a good fit? We’d love to meet you.",,https://www.indeed.com/cmp/Openloop-Health,,,,,,,,,2.8,8.0,,
+in-12ae7e376e9ae3cb,indeed,https://www.indeed.com/viewjob?jk=12ae7e376e9ae3cb,https://inviso.hrmdirect.com/employment/view.php?req=3802744&jbsrc=1014&location=99c0b575-3bae-d733-dfbd-00128568818c,FDE Security & Identity Engineer - USA,Inviso,"Remote, USA",2026-09-02,,direct_data,yearly,124000.0,190000.0,USD,True,,,,,"**FDE Security & Identity Engineer**
+
+This is a remote, client-facing consultant role with Inviso. In this position, you will support an external software development organization as part of Inviso’s delivery team, working closely with client product, engineering, security, and business stakeholders.
+
+The Inviso Security & Identity Engineer is responsible for helping design, secure, and deliver the foundations of an enterprise AI platform used in mission-critical transportation and operational technology environments. This role focuses on threat modeling, tenant isolation, identity, authorization, secure delivery practices, and compliance-by-design.
+
+You will work with client teams to make sure the platform is safe by construction, with security decisions built into the architecture rather than added after the fact. The ideal candidate is hands-on, pragmatic, collaborative, and able to explain complex security concepts clearly to technical and non-technical stakeholders.
+
+This is a 100% remote role, but may require some travel due to client needs.
+
+**Experience & Skills Required**
+
+* Experience designing and securing production software platforms, preferably in multi-tenant or regulated environments.
+* Strong understanding of authentication, authorization, delegated access, token exchange, service identity, and least-privilege access patterns.
+* Experience defining or contributing to platform threat models and applying them to architecture, engineering, and delivery decisions.
+* Ability to design and review tenant isolation models across control plane, data plane, application, and infrastructure boundaries.
+* Experience securing systems that execute untrusted content, code, tools, or agent actions.
+* Familiarity with secure CI/CD practices including secrets management, scanning, policy enforcement, and secure release controls.
+* Ability to support compliance-by-design practices including controls, evidence, data handling, and security documentation.
+* Strong communication skills and ability to partner with engineers, product leaders, client stakeholders, and customer security teams.
+* Pragmatic judgment with the ability to balance security, speed, reliability, and business value.
+* Interest in responsible AI, secure AI systems, and controls for model, agent, and tool-based workflows.
+
+**Desired Qualifications**
+
+* Experience designing authentication and authorization for a multi-tenant SaaS or platform environment.
+* Deep familiarity with OAuth, OIDC, SAML, Entra ID, cloud IAM, or related identity technologies.
+* Experience with SOC 2, ISO 27001, GDPR, or similar compliance frameworks.
+* Experience securing AI, LLM, RAG, agentic, or tool-calling systems.
+* Experience with enterprise-scale software, regulated delivery environments, or mission-critical systems.
+* Experience using AI-assisted development tools while maintaining strong review and security discipline.
+
+**Success Criteria**
+
+Success in this role is measured by the quality of secure architecture decisions, the strength of tenant isolation and identity patterns, the practicality of security guidance, and the ability to help client teams ship reliable, compliant, and secure platform capabilities. This role is expected to raise the security bar while enabling delivery teams to move quickly and responsibly.
+
+**Benefits:**
+
+At Inviso, we believe great talent should be rewarded with competitive pay, meaningful benefits, and room to grow. The base pay for this role ranges from $124,000 to $190,000 annually, reflecting the cost of labor across multiple US geographic markets. Actual compensation will be determined by factors such as location, job-related skills, experience, education or training, and the needs of Inviso’s different lines of business. Beyond base pay, we offer a strong benefits package that includes medical, dental, and vision insurance, a 401(k) plan with company match, annual training reimbursement, paid time off, paid holidays, and additional perks designed to support your well-being and long-term success.
+
+**Why Inviso?**
+
+* Our Culture & Values are who we are.
+* Our commitment to excellence is interwoven with the way we care about our people. Our low attrition rate, high average employee tenure, and the number of people that have been with Inviso for 10, 15, even 20 years, speaks volumes to who we are as a company.
+* We are a meritocracy through and through. Those who excel, grow. There is no ceiling, we don’t tolerate politics.
+* Inviso has maintained a deep, well-established relationship with Microsoft for over 20 years. We are a top-rated supplier and are proud to be a Managed Partner with many credentials.",,https://www.indeed.com/cmp/Inviso-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6e93c7cdc99e88f5dcb9edbd937f0fe9,https://www.invisocorp.com/,"2340 130th Ave NE, Suite 201, Bellevue, WA 98005",51 to 200,,"Inviso is a global consulting firm that combines AI, data, marketing, and sales enablement expertise to deliver great results.",,,4.1,8.0,,
+in-2f317a943ccace38,indeed,https://www.indeed.com/viewjob?jk=2f317a943ccace38,https://inviso.hrmdirect.com/employment/view.php?req=3802645&jbsrc=1014&location=14820c61-0c2e-2777-2448-486ef856a4be,FDE Infrastructure SRE Engineer - USA,Inviso,"Remote, USA",2026-09-02,,direct_data,yearly,115000.0,175000.0,USD,True,,,,,"**FDE Infrastructure SRE Engineer**
+
+This is a remote, client-facing consultant role with Inviso. In this position, you will support an external software development organization as part of Inviso’s delivery team, helping build the operational and reliability foundations for an enterprise AI platform.
+
+The Inviso Infrastructure / SRE Engineer is responsible for designing, building, and operating the cloud, infrastructure, deployment, observability, and reliability capabilities that allow platform teams to ship safely and consistently. This role focuses on landing zones, infrastructure-as-code, Kubernetes, CI/CD, observability, incident response, cost optimization, and production readiness.
+
+The Engineer treats infrastructure and reliability as products, building repeatable systems that reduce toil, improve delivery speed, and support mission-critical customer environments. The ideal candidate is hands-on, automation-minded, calm under pressure, and comfortable owning systems in production.
+
+This is a 100% remote role, but may require some travel due to client needs.
+
+**Experience & Skills Required**
+
+* Experience building and operating production cloud infrastructure with reliability ownership.
+* Strong experience with infrastructure-as-code, landing zones, networking, identity, security, and environment management.
+* Experience with Kubernetes, containerized workloads, CI/CD pipelines, and automated deployment practices.
+* Experience establishing observability using metrics, logs, traces, dashboards, alerting, and actionable operational signals.
+* Experience defining or supporting SLOs, reliability practices, incident response, postmortems, and on-call operations.
+* Ability to automate operational tasks and reduce manual toil through scripts, tools, runbooks, and platform services.
+* Experience preparing software for customer-controlled, hybrid, BYOC, on-premises, or edge environments preferred.
+* Strong understanding of cost and capacity optimization, including expensive compute such as GPU workloads.
+* Strong communication and collaboration skills for client-facing consulting environments.
+* Pragmatic mindset with the ability to balance speed, safety, automation, cost, and operational quality.
+
+**Desired Qualifications**
+
+* Experience with Azure, Kubernetes, Terraform, Bicep, GitHub Actions, Azure DevOps, or related infrastructure and delivery tools.
+* Experience with Azure Arc, fleet management, pull-based deployment patterns, or version/configuration drift management.
+* Experience supporting regulated, air-gapped, edge, or mission-critical delivery environments.
+* Experience supporting AI/ML platforms, model-serving infrastructure, GPU workloads, or AI development lifecycle operations.
+* Experience building enterprise-scale infrastructure supporting multiple teams, products, or customers.
+* Experience using AI-assisted development tools while maintaining strong review, testing, and operational discipline.
+
+**Success Criteria**
+
+Success in this role is measured by reliable platform operations, repeatable delivery, strong observability, reduced operational toil, and the ability to help client teams ship safely into complex customer environments. Infrastructure / SRE Engineers are expected to improve speed and stability at the same time.
+
+**Benefits:**
+
+At Inviso, we believe great talent should be rewarded with competitive pay, meaningful benefits, and room to grow. The base pay for this role ranges from $115,000 to $175,000 annually, reflecting the cost of labor across multiple US geographic markets. Actual compensation will be determined by factors such as location, job-related skills, experience, education or training, and the needs of Inviso’s different lines of business. Beyond base pay, we offer a strong benefits package that includes medical, dental, and vision insurance, a 401(k) plan with company match, annual training reimbursement, paid time off, paid holidays, and additional perks designed to support your well-being and long-term success.
+
+**Why Inviso?**
+
+* Our Culture & Values are who we are.
+* Our commitment to excellence is interwoven with the way we care about our people. Our low attrition rate, high average employee tenure, and the number of people that have been with Inviso for 10, 15, even 20 years, speaks volumes to who we are as a company.
+* We are a meritocracy through and through. Those who excel, grow. There is no ceiling, we don’t tolerate politics.
+* Inviso has maintained a deep, well-established relationship with Microsoft for over 20 years. We are a top-rated supplier and are proud to be a Managed Partner with many credentials.",,https://www.indeed.com/cmp/Inviso-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6e93c7cdc99e88f5dcb9edbd937f0fe9,https://www.invisocorp.com/,"2340 130th Ave NE, Suite 201, Bellevue, WA 98005",51 to 200,,"Inviso is a global consulting firm that combines AI, data, marketing, and sales enablement expertise to deliver great results.",,,4.1,8.0,,
+in-debe732c0e48cac6,indeed,https://www.indeed.com/viewjob?jk=debe732c0e48cac6,https://inviso.hrmdirect.com/employment/view.php?req=3801720&jbsrc=1014&location=22326cdc-a55f-a01a-07b0-cd617394d7bf,FDE Backend Platform Engineer - USA,Inviso,"Remote, USA",2026-09-02,,direct_data,yearly,115000.0,180000.0,USD,True,,,,,"**FDE Backend Platform Engineer**
+
+This is a remote, client-facing consultant role with Inviso. In this position, you will support an external software development organization as part of Inviso’s delivery team, working closely with client product, engineering, data, and platform stakeholders.
+
+The Inviso Backend / Platform Engineer is responsible for designing, building, and operating the core services that power an enterprise AI platform. This role contributes to the AI gateway, orchestration layer, entitlements, tenancy model, data access patterns, integration frameworks, APIs, and platform services that product teams and customers depend on.
+
+The Engineer owns services end to end, from design and implementation through testing, deployment, reliability, and support. The ideal candidate is a strong backend engineer who understands distributed systems, failure modes, clean boundaries, platform APIs, and pragmatic trade-offs.
+
+This is a 100% remote role, but may require some travel due to client needs.
+
+**Experience & Skills Required**
+
+* Experience building and operating production backend, API, or distributed platform services.
+* Strong software engineering skills with experience designing reliable, testable, and maintainable services.
+* Experience with AI gateway, orchestration, entitlements, tenancy, metering, quotas, or similar platform capabilities.
+* Ability to design APIs and developer experiences for internal and external consumers.
+* Experience with multi-tenant systems, tenant isolation, service boundaries, and platform-level enforcement patterns.
+* Experience building integration frameworks, connector patterns, governed data access, or reliable data on-ramps.
+* Strong understanding of retries, partial failure, consistency, idempotency, back-pressure, and operational failure modes.
+* Experience owning services through design, development, testing, deployment, monitoring, and support.
+* Strong communication and collaboration skills for client-facing consulting environments.
+* Pragmatic mindset with the ability to ship meaningful value quickly while maintaining engineering quality.
+
+**Desired Qualifications**
+
+* Experience with C#, Python, Go, or similar backend languages.
+* Experience with API gateways, orchestration systems, connector frameworks, event-driven systems, or platform engineering.
+* Experience with AI, LLM, RAG, agentic workflows, tool/function calling, MCP, A2A, or AI development lifecycle practices.
+* Experience with event-sourced metering, quotas, entitlements, or billing-related platform services.
+* Experience building enterprise-scale software used by multiple products, customers, or internal teams.
+* Experience using AI-assisted development tools while maintaining strong review, testing, and architecture discipline.
+
+**Benefits:**
+
+At Inviso, we believe great talent should be rewarded with competitive pay, meaningful benefits, and room to grow. The base pay for this role ranges from $115,000 to $180,000 annually, reflecting the cost of labor across multiple US geographic markets. Actual compensation will be determined by factors such as location, job-related skills, experience, education or training, and the needs of Inviso’s different lines of business. Beyond base pay, we offer a strong benefits package that includes medical, dental, and vision insurance, a 401(k) plan with company match, annual training reimbursement, paid time off, paid holidays, and additional perks designed to support your well-being and long-term success.
+
+**Why Inviso?**
+
+* Our?Culture & Values?are who we are.
+* Our commitment to excellence is interwoven with the way we care about our people. Our low attrition rate, high average employee tenure, and the number of people that have been with Inviso for 10, 15, even 20 years, speaks volumes to who we are as a company.
+* We are a meritocracy through and through. Those who excel, grow. There is no ceiling, we don’t tolerate politics.
+* Inviso has maintained a deep, well-established relationship with Microsoft for over 20 years. We are a top-rated supplier and are proud to be a Managed Partner with many credentials.",,https://www.indeed.com/cmp/Inviso-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6e93c7cdc99e88f5dcb9edbd937f0fe9,https://www.invisocorp.com/,"2340 130th Ave NE, Suite 201, Bellevue, WA 98005",51 to 200,,"Inviso is a global consulting firm that combines AI, data, marketing, and sales enablement expertise to deliver great results.",,,4.1,8.0,,
+in-99a1415a82d8dbf5,indeed,https://www.indeed.com/viewjob?jk=99a1415a82d8dbf5,https://inviso.hrmdirect.com/employment/view.php?req=3802516&jbsrc=1014&location=cc2dbe7f-079e-d6bc-aa09-905c2f44002b,FDE Full-stack Product Engineer - USA,Inviso,"Remote, USA",2026-09-02,,direct_data,yearly,110000.0,180000.0,USD,True,,,,,"**FDE Full-stack Product Engineer**
+
+This is a remote, client-facing consultant role with Inviso. In this position, you will support an external software development organization as part of Inviso’s delivery team, helping build the customer-facing and admin experiences for an enterprise AI platform.
+
+The Inviso Full-stack / Product Engineer is responsible for building the admin consoles, delegated-admin experiences, self-service builder surfaces, APIs, and supporting services that customers use to configure, extend, and operate the platform. This role works across the full stack, from user interfaces and front-end architecture to backend integration and service behavior.
+
+The ideal candidate has strong product engineering instincts, cares about the usability of complex B2B and data-heavy interfaces, and can own features from the customer problem through production delivery. This role requires close collaboration with product, design, platform engineering, and client stakeholders.
+
+This is a 100% remote role, but may require some travel due to client needs.
+
+**Experience & Skills Required**
+
+* Experience building complex production web applications across the front end and backend.
+* Strong experience with modern front-end development, TypeScript, APIs, and service integration.
+* Experience building admin consoles, B2B applications, delegated-admin workflows, self-service builder experiences, or data-heavy interfaces.
+* Ability to design usable interfaces for complex workflows, configuration scenarios, operational tools, or platform capabilities.
+* Experience integrating deeply with platform APIs and owning the full request path from UI to backend.
+* Experience owning quality through automated tests, accessibility, performance, regression checks, and production support.
+* Ability to work closely with product and design teams to validate workflows with customers and iterate quickly.
+* Strong software engineering fundamentals and ability to maintain clean, maintainable front-end and backend patterns.
+* Strong communication and collaboration skills for client-facing consulting environments.
+* Pragmatic mindset with the ability to ship useful customer-facing capability while maintaining quality.
+
+**Desired Qualifications**
+
+* Experience with TypeScript, React or similar frameworks, C#/.NET, API design, and cloud-based application development.
+* Experience with design systems, accessibility standards, component libraries, or enterprise UX patterns.
+* Experience with AI-enabled products, AI development lifecycle practices, admin tools for AI platforms, or self-service configuration experiences.
+* Experience with enterprise-scale SaaS, platform products, or software used across multiple products or customer environments.
+* Experience with automated QA frameworks, quality gates, and performance testing.
+* Experience using AI-assisted development tools while maintaining strong review, testing, and product quality discipline.
+
+**Success Criteria**
+
+Success in this role is measured by the ability to deliver customer-facing and admin experiences that are usable, reliable, performant, accessible, and easy to extend. Full-stack / Product Engineers are expected to translate complex platform capabilities into practical user experiences that help customers and product teams get value from the platform.
+
+**Benefits:**
+
+At Inviso, we believe great talent should be rewarded with competitive pay, meaningful benefits, and room to grow. The base pay for this role ranges from $110,000 to $180,000 annually, reflecting the cost of labor across multiple US geographic markets. Actual compensation will be determined by factors such as location, job-related skills, experience, education or training, and the needs of Inviso’s different lines of business. Beyond base pay, we offer a strong benefits package that includes medical, dental, and vision insurance, a 401(k) plan with company match, annual training reimbursement, paid time off, paid holidays, and additional perks designed to support your well-being and long-term success.
+
+**Why Inviso?**
+
+* Our?Culture & Values?are who we are.
+* Our commitment to excellence is interwoven with the way we care about our people. Our low attrition rate, high average employee tenure, and the number of people that have been with Inviso for 10, 15, even 20 years, speaks volumes to who we are as a company.
+* We are a meritocracy through and through. Those who excel, grow. There is no ceiling, we don’t tolerate politics.",,https://www.indeed.com/cmp/Inviso-2,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6e93c7cdc99e88f5dcb9edbd937f0fe9,https://www.invisocorp.com/,"2340 130th Ave NE, Suite 201, Bellevue, WA 98005",51 to 200,,"Inviso is a global consulting firm that combines AI, data, marketing, and sales enablement expertise to deliver great results.",,,4.1,8.0,,
+in-073c1e41cd2fbcc7,indeed,https://www.indeed.com/viewjob?jk=073c1e41cd2fbcc7,https://jobs.ashbyhq.com/forgd-ai/e961724b-82ee-4f86-a75c-ac534bfb82a4?utm_source=BgZdRpoJRn,Forward Deployed Engineer (FDE) : North America,"forgd, inc.","Denver, CO, USA",2026-08-31,fulltime,,,,,,True,,,,,"**Forward Deployed Engineer (FDE)**
+===================================
+
+*Remote / 20% Travel*
+
+**About forgd**
+---------------
+
+forgd is the consultancy partnering exclusively with Anthropic to help enterprises build AI-native businesses. We start with engineering — helping organizations move from individual developers using Claude Code to entire teams shipping together with AI-native workflows — and expand into agentic solution delivery and broader business transformation.
+
+Our conviction is that engineers are uniquely positioned to lead this transformation. The strongest mental model for designing, deploying, and governing AI agents in production lives in software engineering. The teams that change how their organization builds software are the same teams equipped to shepherd the rest of the business into this new world.
+
+We embed and co-build with customer teams. Cycles are short, delivery is iterative and accountable to clear outcome goals.
+
+**About the Role**
+------------------
+
+As an FDE, you embed with enterprise customers and own the technical work across the full customer journey — initial demos, short proof-of-value engagements, and multi-week implementations. The work moves customers from interesting prototypes to production capability.
+
+Most engagements start in engineering. You'll work with customer engineering teams adopting Claude Code and redesigning their SDLC — code review, requirements, testing, documentation, and governance. From there, the work expands: co-building agentic applications and modernizing legacy systems on the Claude developer platform, and partnering with business stakeholders to deploy agents into core operations like sales, customer service, and finance.
+
+You're the expert in the room on how engineers work with Claude Code, what an agentic application looks like in production, and what has to change in an organization to sustain either. You build prototypes, ship code, run workshops, write specs, and make the calls that move customers from demos to deployment.
+
+Collaborate directly with Anthropic on customer engagements — joint working sessions, early access to product changes, and a direct line to their product and engineering teams.
+
+**Responsibilities**
+--------------------
+
+### **Enable**
+
+* Lead Claude Code Labs and customer workshops
+* Take customer teams from beginner to power user across Claude Code, Claude for Work, Cowork, and the developer platform
+* Codify deployment patterns and feed them back to forgd's methodology and Anthropic's product teams
+
+### **Transform**
+
+* Lead discovery into customer environments — engineering toolchains and workflows, business operations, and organizational dynamics — and turn that into clear technical plans
+* Advise on how AI-native development changes existing engineering practices: issue management, branching, testing, code review, and security
+* Guide adoption programs that scale Claude across engineering organizations and into business teams
+
+### **Build**
+
+* Scope engagements: assumptions, risks, milestones, and dependencies
+* Embed with customer teams to co-build agentic applications on the Claude developer platform
+* Build technical artifacts — evaluation frameworks, MCP servers, sub-agents, and deployment configurations — tailored to the customer's stack
+
+**What Success Looks Like**
+---------------------------
+
+* Customers move from proof-of-value to production
+* Engineering teams measurably change how they ship software
+* Customers become references
+* Accounts expand on the strength of the work
+
+**You May Be a Good Fit If You Have**
+-------------------------------------
+
+* 3–5 years in a customer-facing technical role — Solutions Architect, Sales Engineer, Forward Deployed Engineer, Technical Consultant — or in a hands-on engineering role as a Software Engineer or Product Engineer
+* Software development experience in a high-scale startup or enterprise environment; you know what it takes to write, ship, and operate production code
+* Production experience with LLMs — prompt engineering, agent design, and evaluation frameworks.
+* Power user of Claude Code or equivalent AI coding assistants; you live in AI-native development yourself
+* Familiarity with enterprise development toolchains, CI/CD, and modern SDLC practices, and cloud-native deployment on AWS, GCP, or Azure
+* Communication skills that work across the room — individual contributors, engineering leadership, and business stakeholders
+* High agency and comfort with ambiguity; you operate autonomously in customer environments
+
+**Nice to Have**
+----------------
+
+* Background in professional services or consulting
+* Track record leading developer productivity or developer experience at scale
+* Vertical experience in financial services, healthcare, or other regulated industries
+* Experience driving organizational change
+
+**What We Offer**
+-----------------
+
+* Work at the frontier: Direct partnership with Anthropic — joint engagements, early access to product changes, and working sessions with their Applied AI team
+* Founding team: You shape how we work and grow as we scale
+* Remote: Fully remote across North American and European time zones
+* Compensation and benefits: Competitive salary, equity, and full benefits
+
+**How to Apply**
+----------------
+
+We encourage you to apply even if you don't meet every qualification. Research shows people from underrepresented groups often hesitate unless they meet every requirement, and we don't want you to exclude yourself prematurely. If you're excited about AI-native engineering and want to help enterprises change how they build software, we'd love to hear from you.",,,,,,,,,,,,,,
+in-ff7fa0be8bb96a5a,indeed,https://www.indeed.com/viewjob?jk=ff7fa0be8bb96a5a,https://astrioncareers-astrion.icims.com/jobs/24713/job,Chicken Little Test Engineer - Senior,Astrion,"Eglin AFB, FL, USA",2026-08-19,fulltime,,,,,,False,,,,,"**Chicken Little Test Engineer - Senior**
+
+**LOCATION:** Eglin AFB, FL
+
+**JOB STATUS:** Full-Time
+
+**CLEARANCE:** Active Secret
+
+**TRAVEL:** 25%
+
+Astrion has an exciting opportunity for a **Chicken Little Test Engineer** located at the **46TS/TGBB in Eglin AFB, FL**. This position provides support to the 46 Test Squadron - Sensors and Defensive Systems Flight at Eglin AFB.
+
+**REQUIRED QUALIFICATIONS / SKILLS**
+
+* Master’s Degree in a technical discipline and a minimum of 10 years of technical experience. Additional years of experience may be substituted for education.
+* Active Secret clearance.
+* U.S. Citizenship.
+* Requires extensive experience in electronic warfare (EW) operations.
+* Requires knowledge of and experience with radio frequency, electro-optical, and electronic combat techniques.
+* Requires proficiency in Microsoft Office including MS Word, MS Excel, and MS PowerPoint.
+* Must be willing to work extended hours including weekends and holidays when required to meet mission requirements.
+* Must have a demonstrated ability to work effectively on a team and to lead and direct the work of others
+
+**PREFERRED QUALIFICATIONS / SKILLS**
+
+* 20 years of experience in electronic warfare opeartions.
+
+**RESPONSIBILITIES**
+
+* Performs engineering-related duties to execute test and evaluation of Intelligence, Surveillance, and Reconnaissance (ISR) systems and precision guided munitions (PGM) seekers against a variety of foreign mobile targets for Project CHICKEN LITTLE.
+* Uses sound engineering, physics, and mathematics principles in the performance of ISR and PGM test and evaluation. Assists in the development of Project Chicken Little program documentation, such as requirements calls, program management directives, and Program Element Monitor (PEM) responses to inquiries.
+* Provides individual technical effort in questions/issues of critical importance to the customer. Assists in the development of system requirements, functional capabilities, performance measures, design constraints, test phase entry/exit criteria, and metrics.
+* Supports development test (DT), operational test (OT), force development evaluation (FDE), and certification for test readiness by identifying deficiencies, verifying compliance with specifications and standards, and demonstrating a stable system configuration.
+* Supports the development of strategic test documents such as Test and Evaluation Master Plan (TEMP), test strategies, Integrated Test Team (ITT) Charters, Test Scenario Plans, and Modeling and Simulation Development Plans. Prepare, execute, review, and analyze test plans, procedures, metrics, and reports throughout the test item development life cycle. Prepare, execute, review, and analyze test plans, procedures, metrics, and reports throughout the system-under-test development life cycle.
+* Develops and write methods of tests, test cases, test cards/procedures, test directives, technical or letter reports, test objectives, analysis and review of requirements, and any other test process documents as required in the conduct of test and evaluation.
+* Plans, coordinates, and monitors test projects that frequently require significant modification of standard practices or adaptation of instrumentation to obtain valid results. Plans, monitors and evaluates tests, and assesses the feasibility and soundness of proposed engineering evaluation tests.
+* Makes recommendations and commitments on the conventional aspects of the test and evaluation assignments.",,https://www.indeed.com/cmp/Astrion,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bdafd7331c0250e9293bf76dac73e9bf,https://www.oasissystems.com/,"Burlington, NC","1,001 to 5,000",$100M to $500M (USD),"Deliver results with impact.
+This is how we do it. We deliver concrete, measurable results that create real impact on our customers’ missions.",,,3.2,540.0,,
+in-520b9991459b350a,indeed,https://www.indeed.com/viewjob?jk=520b9991459b350a,https://grnh.se/8equhtu2teu,Forward Deployed Software Engineer - NYC,Indicium AI,"New York, NY, USA",2026-07-27,,direct_data,yearly,180000.0,240000.0,USD,True,,,,,"**Forward Deployed Software Engineer — US / NYC**
+=================================================
+
+### **About Indicium AI**
+
+Indicium AI was Anthropic's first European launch partner, a Preferred Anthropic Partner, and sits among a handful of organizations globally trusted to deploy Claude at an enterprise scale. Named the 2026 Databricks Consulting Partner of the Year and backed by Databricks Ventures, we build and deploy production AI systems for complex enterprises, making AI a genuine competitive advantage.
+
+### **The Role**
+
+AI is overhauling how software gets built. As a Forward Deployed Engineer (FDE), you are the technical and commercial anchor for our expansion into the US market. Based in New York, you will help establish Indicium AI's presence in the US by embedding directly within tier-one client engineering organizations to transform their developer experience, modernize SDLC workflows, and co-engineer production systems. Flexible remote work is supported during build-focused and off-client periods.
+
+This is a player-coach role requiring hands-on engineering mastery, executive credibility with CTOs and VPs of Engineering, and the commercial instinct to turn initial delivery wins into expanded US accounts. While you lead client engagements, you are never on an island: you are backed by specialized delivery pods, direct leadership access, and deep technical integration with Anthropic field teams.
+
+### **What You Will Do**
+
+* **Lead AI-Native Transformation:** Audit enterprise workflows and design target architectures leveraging Anthropic models, Claude Code, custom MCP servers, agentic tooling, and automated CI/CD pipelines.
+* **Co-Engineer in Production:** Embed alongside client teams and Anthropic technical teams to refactor codebases and roll out AI-augmented practices directly in live pipelines.
+* **Establish & Scale US Accounts:** Serve as the trusted technical partner for US executive stakeholders, driving local market growth by using successful delivery to spot new high-value enterprise problems.
+* **Scale Practice Playbooks:** Codify patterns, tools, and best practices from US engagements to expand Indicium AI's global playbook and mentor client champion developers.
+
+### **What We Are Looking For**
+
+* **Proven Scope of Ownership:** Track record of independently owning complex technical delivery and influencing executive stakeholders (CTOs, VPs of Engineering).
+* **Hands-On Production Depth:** Strong background shipping production systems in Python, TypeScript, or Java across modern cloud stacks (AWS, Azure, GCP).
+* **AI-Native Fluent:** Active daily user of tools like Claude Code, Copilot, or agentic frameworks.
+* **Commercial Mindset:** Ability to identify high-value enterprise problems, establish trusted client relationships, and help drive US market expansion.
+* **Accelerators:** Domain depth in Financial Services, Energy, or Healthcare; hands-on MCP server development; or prior experience in DevEx / FDE roles.
+
+### **Why Indicium AI**
+
+* **Deep Anthropic Partnership:** Work at the bleeding edge as a Preferred Anthropic Partner, with direct access to partner teams, official training, and early access to unreleased capabilities.
+* **High Autonomy Culture:** Sharp, high-agency teams with no middle-management layers or corporate theater.
+* **Frontier-Level L&D:** Generous learning budget, dedicated research time, and unencumbered access to state-of-the-art AI tools.
+* **Top-Tier Benefits:** Competitive pay with performance bonuses, comprehensive health coverage, generous PTO, flexible holidays, parental leave, and a paid company shutdown the last week of December.
+
+*The anticipated base salary range for this role is $180,000 - $240,000. In addition to base pay, this position may be eligible for an annual discretionary bonus. An individual's final salary offer will be determined based on a variety of factors, including geographic location, experience, specialized skills, and qualifications. This compensation range is subject to updates or modifications at the company's discretion*",,https://www.indeed.com/cmp/Indicium-Ai-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7ed7aea5bacf166d7c84056f7cdc6a7a,https://indicium.ai/,"New York, NY","501 to 1,000",Decline to state,"Indicium AI is a global AI-native consultancy with proven experience across Financial Services, Energy & Utilities, Healthcare & Life Sciences, Retail & CPG, and Manufacturing.",,,3.0,3.0,,
+in-211e254abfb1f217,indeed,https://www.indeed.com/viewjob?jk=211e254abfb1f217,https://jobs.ashbyhq.com/fragmentai/390ebd23-ccad-48ff-8915-a8b1f4f091b3?utm_source=lpjMekOAmo,Agent Strategist,Fragment,"San Francisco, CA, USA",2026-07-25,fulltime,direct_data,yearly,250000.0,400000.0,USD,False,,,,,"Fragment is the AI platform that autonomously streamlines procurement workflows end to end. Within a few months of launch, we signed Fortune 500 companies. Within a year of founding, our customers, all $1B+ revenue enterprises, continue to grow in number and are actively championing us to their networks, and our marketing and CAC to get here has been $0.
+
+We're hiring Agent Strategists to own the end-to-end deployment of Fragment's agents inside enterprise customers, from first workshop to live agents resolving work in production. You sit between the customer and our engineering and research teams. You learn their process cold, define the agents that automate it, get them live fast, and stay accountable for the outcomes after go-live.
+
+**Company Highlights**
+
+* **The Team:** Our CEO previously led and scaled three of Zoom's products past $300M in revenue, and our CTO is an ex-AI researcher who has spent his entire career in enterprise AI, leading engineering teams from seed through Series C. The broader team includes repeat VC-backed founders, Caltech PhDs, former quants, chess masters, Six Sigma Master Black Belts, and one very enthusiastic Bonsai grower.
+* **Product:** We pride ourselves on our depth of our experience building agents, and on our continued diligence in leveraging the latest technology. We hold a high bar of excellence that starts with the founding team.
+* **Hypergrowth:** 30x revenue growth in the first half of this year, with the majority of our pipeline coming from customer references.
+
+**What We've Built**
+
+Every large enterprise runs procurement software. Coupa, SAP Ariba, Jaggaer, GEP. These systems digitize the process, but they don't resolve exceptions. When a 3-way match fails, when a change order hits after goods receipt, when a duplicate invoice slips through across ERPs, those platforms route the problem to a human. The human investigates, makes a judgment call, and closes the loop. That's why organizations have large workforce to do work that is repetitive, rules-based, and high-volume, rather than the high-value strategic work.
+
+Fragment replaces that repetitive non-value work with AI agents that actually resolve exceptions end to end. Not routing. Not flagging. Resolution. Our platform reasons across ERP systems, procurement documents, supplier data, custom databases, SaaS solutions, and tribal knowledge simultaneously. It doesn't require a rip-and-replace. It doesn't need months of integration work. It deploys on top of whatever systems a customer already runs and starts resolving exceptions autonomously.
+
+In deployments with Fortune 500 customers, we've realized dramatic reductions in the amount of time a buyer and an AP analyst spend chasing exceptions every day. We are the only company that profits from procurement process exceptions going to zero.
+
+**What You'll Do**
+
+* **Customer Discovery & Definition.** Walk into customers across different industries, different ERPs, and different levels of process maturity, and get productive fast. Facilitate workshops with enterprise stakeholders to map their procurement and source-to-pay processes and identify the highest-value opportunities for autonomous agents. Design the agent definitions that automate that work, tailored to each customer's priorities, data, and systems, and design the future-state workflows for how humans and AI agents share the work. Help customers see what's possible when AI agents handle the work their BPOs and shared services teams do today.
+* **Customer Facing Delivery Work.** Be hands-on in launching and configuring customer deployments. Connect Fragment to customer systems of record (ERP and adjacent procurement systems) so agents operate cleanly against live data. Own deployment readiness: make sure the process logic, exception handling, and workflow configuration are dialed in before we go live. Deploy at high velocity, driving rapid time-to-value and measurable ROI from day one, and run each engagement with the project management and iterative delivery that keep momentum and transparency across customer and Fragment teams. Build the playbooks, process documentation, and implementation frameworks that let us scale delivery beyond your individual involvement.
+* **Product Work.** Partner with our engineering team to continuously refine and expand the platform's procurement capabilities. Bring real-world process knowledge into the product loop, surfacing edge cases, validating automation logic, and ensuring that what we ship holds up against the complexity of actual enterprise procurement environments. Guide the UX from a practitioner's perspective so the product feels intuitive to the teams who use it daily. Bring your field learnings back to our research and product teams so the agents and the roadmap keep getting better.
+* **Strategic Work.** Help shape Fragment's point of view on what lean procure-to-pay and source-to-pay processes should look like when AI agents are in the loop. Not incremental optimization of the status quo. A fundamental rethinking of how these processes are designed when autonomous resolution is the default, not the exception. Contribute to thought leadership and strengthen our go-to-market messaging with operational depth.
+* **Advisor & Expansion.** Stay accountable for business KPIs and outcomes after go-live, not just launch. Serve as a trusted advisor on how customers get the most out of agentic AI across their operations, and unlock new opportunities to expand where agents are deployed. Bring the autonomous future to life for customers, helping them see not just what agents do today but how autonomous operations reshape their procurement strategy tomorrow.
+
+This is a startup. You'll go deep on source-to-pay processes, but you'll also be pulled into whatever needs to get done. If you need a clearly scoped job description to be comfortable, this isn't the right fit.
+
+**Who You Are**
+
+This role rewards slope over résumé. The best Agent Strategists learn ridiculously fast, think in systems, and are as comfortable with a VP of Procurement as they are whiteboarding logic with engineers. Some arrive with deep procurement and deployment experience. Others arrive with raw horsepower and pick up the domain fast. Both work.
+
+You might come from one of these paths:
+
+* **The practitioner-consultant.** You did real procurement or operations work inside a large enterprise, then moved into consulting and built breadth across industries, ERPs, and transformation methodologies. You have the intuition from having lived it and the structure from consulting.
+* **The forward-deployed or solutions engineer.** You've deployed complex software into enterprises at a high-growth company, sat in front of customers, owned outcomes, and seen forward-deployed work done well. You may not know procurement yet, but you know how to land a hard product in a messy environment.
+* **The high-slope generalist.** You come from top-tier consulting or a top MBA program, you ramp on new domains faster than anyone around you, and you want real ownership instead of slideware. You'll go deep on procurement quickly, because that's how you operate with everything.
+
+Whatever the path, we're looking for 7+ years of relevant experience.
+
+Regardless of background, you are someone who:
+
+* Learns ridiculously fast. You can walk into a company you've never seen, sit with their team, and produce a clear process map with decision trees, exception paths, and system touchpoints within days.
+* Thinks in systems, not tickets, and context-switches across industries and ERP environments without a long ramp. Our customers span electronics manufacturing, energy, automotive, food and beverage, and more, running SAP, Oracle, Coupa, Ariba, and homegrown systems, sometimes all at once.
+* Translates between practitioners and engineers. You can take a procurement team's messy description of how they handle exceptions and turn it into structured logic an engineering team can build against.
+* Combines technical literacy (SQL comfort, ERP schemas, a practical understanding of agentic workflows) with strong executive communication.
+* Is comfortable on-site with clients, thrives in a high-velocity environment, and measures success by customer adoption and expansion.
+* Takes ownership under pressure, with an instinct to run toward the fire.
+
+**Nice to Have**
+
+* Experience deploying or configuring enterprise AI or SaaS platforms as an FDE, applied engineer, or deployment specialist
+* Familiarity with enterprise data pipelines and integrations with existing systems
+* Exposure to the agentic AI ecosystem, LLMs, or automation platforms
+* Prior experience at a startup or in a fast-moving, ambiguous environment
+
+**Interested?** Reach out even if you’re not sure you’re a perfect fit.
+
+Compensation Range: $250K - $400K",,https://www.indeed.com/cmp/Fragment,,,,,,,,,,,,
+in-b280cf3904901ebd,indeed,https://www.indeed.com/viewjob?jk=b280cf3904901ebd,https://atlas-technica.breezy.hr/p/b38f1829e55e-forward-deployed-engineer?source=indeed,Forward Deployed Engineer,Atlas Technica,"Remote, USA",2026-07-23,fulltime,,,,,,True,,,,,"**Title:** Forward Deployed Engineer (FDE)  
+**Reports to:** Director of Professional Services  
+**Department:** Professional Services  
+**Location:** Remote within the United States  
+**Status:** Exempt
+
+  
+  
+
+**About Atlas Technica**
+------------------------
+
+Atlas Technica's mission is to shoulder IT management, user support, and cybersecurity for our clients, who are hedge funds and other investment firms. Founded in 2016, we have grown year over year through our uncompromising focus on service.
+
+We value ownership, execution, growth, intelligence, and camaraderie. We are looking for people who share our core values, thrive in a collaborative environment, and put the customer first. Atlas Technica offers competitive compensation, comprehensive benefits, and valuable perks to our global team. We are committed to maintaining a professional yet friendly environment that supports the continued growth and career development of our team members. Join Atlas Technica and grow with us!
+
+**Position Overview**
+---------------------
+
+As a Forward Deployed Engineer (FDE) at Atlas Technica, you will serve as a senior, client-facing technical advisor working directly with prospective and existing clients to evaluate their technology environments and identify opportunities for improvement. This role is focused on conducting technical discovery, operational assessments, and gap analyses to uncover risks, inefficiencies, and modernization opportunities across client environments.
+
+The FDE works closely with clients to understand how their technology supports their business and where improvements can be made across infrastructure, security, cloud, and IT operations. Based on these findings, the FDE develops clear recommendations and strategic technology roadmaps designed to improve reliability, security, scalability, and operational maturity.
+
+This role also partners closely with Atlas sales, solutions, engineering, and delivery teams to translate assessment findings into practical implementation strategies and well-defined engagements. The Forward Deployed Engineer acts as a trusted technical advisor to clients while helping Atlas identify opportunities where our services can provide meaningful and lasting value.
+
+**Responsibilities**
+--------------------
+
+* Conduct technical discovery sessions with prospective and existing clients to understand their infrastructure, security posture, operational processes, and business requirements.
+* Perform comprehensive technology assessments and gap analyses across infrastructure, cloud platforms, identity systems, security controls, and IT operations.
+* Evaluate client environments that may include Microsoft 365, Azure, AWS, endpoint management, networking, backup and recovery, identity systems, and cybersecurity tooling.
+* Identify operational inefficiencies, security risks, architectural limitations, and opportunities for modernization.
+* Develop actionable recommendations and strategic technology roadmaps aligned with client needs and industry best practices.
+* Translate complex technical findings into clear summaries and recommendations for both technical teams and business stakeholders.
+* Partner with sales and solutions teams during early-stage client engagements to help shape potential project scopes and solution strategies.
+* Collaborate with Professional Services and engineering teams to ensure proposed solutions align with Atlas delivery capabilities and technical standards.
+* Participate in remote and onsite client engagements to conduct in-depth discovery and assessments when required.
+* Document assessment findings, recommendations, risks, and proposed improvement initiatives in a clear and structured manner.
+* Serve as a trusted technical advisor during client discovery sessions, strategic discussions, and early-stage engagements.
+* Identify opportunities for Atlas Technica services to improve clients' operational maturity, security posture, and overall technology performance.
+* Stay informed on emerging technologies, cybersecurity trends, and industry best practices relevant to financial services organizations.
+* Provide feedback to internal teams on recurring client challenges and market needs to help strengthen Atlas service offerings, methodologies, and internal playbooks.
+
+**Requirements**
+----------------
+
+* 7+ years of experience in IT infrastructure, cloud engineering, systems engineering, solution architecture, or a related technical discipline.
+* Strong experience across Microsoft 365, Azure, AWS, networking, identity platforms, endpoint management, and modern security technologies.
+* Experience conducting technical assessments, infrastructure reviews, security evaluations, or operational maturity assessments.
+* Strong analytical and problem-solving skills, with the ability to evaluate complex technology environments and identify practical improvement opportunities.
+* Excellent communication skills, including the ability to translate complex technical findings into clear, actionable recommendations.
+* Experience supporting technical discovery, pre-sales engagements, or client advisory work within a consulting, MSP, or professional services environment.
+* Strong documentation and presentation skills, including experience producing technical assessment reports, executive summaries, and roadmap recommendations.
+* Deep understanding of modern IT architecture, including hybrid cloud environments, identity security, endpoint management, networking, and security controls.
+* Ability to collaborate effectively with sales, solutions, delivery, engineering, and leadership teams.
+* Ability and willingness to travel for onsite client engagements as needed.
+
+**Preferred Qualifications**
+----------------------------
+
+* Experience working with financial services organizations, hedge funds, investment firms, or other regulated environments.
+* Experience working within a Managed Service Provider (MSP), consulting firm, or professional services organization.
+* Relevant certifications such as Microsoft Certified: Azure Solutions Architect Expert, AWS Certified Solutions Architect, CISSP, or similar.
+* Experience designing or evaluating cloud migrations, security transformations, infrastructure modernization initiatives, or technology operating models.
+* Familiarity with compliance frameworks and operational requirements relevant to financial services organizations.
+* Experience with enterprise platforms and technologies such as Microsoft Defender, Microsoft Intune, Azure security services, or similar tools.
+
+Atlas Technica is proud to be an Equal Employment Opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, protected veteran status, disability, or any other characteristic protected by applicable law.",,https://www.indeed.com/cmp/Atlas-Technica,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7b63e6b3f0b103e2fec5d83f8884704f,https://www.atlastechnica.com,"Atlas Technica LLC
+240 Madison Avenue, 6th Floor
+New York, NY 10016",201 to 500,$25M to $100M (USD),We are a next-generation Managed Service Provider (MSP) focused on Public Cloud and white-glove service for the Alternative Investment industry.,,,4.4,10.0,,
+in-0d88944d9a13dad6,indeed,https://www.indeed.com/viewjob?jk=0d88944d9a13dad6,https://grnh.se/fpxhg7el5us,Sr. Forward Deployed Engineer,Re:Build Manufacturing,"Remote, USA",2026-06-19,,direct_data,yearly,120223.0,180334.0,USD,True,,,,accommodations.ta@ReBuildmanufacturing.com,"**About Re:Build**
+------------------
+
+At Re:Build, our mission is to ensure the next generation of important products are made, at scale, in America. We are laying the foundation for a better future for our customers, employees, and communities by revitalizing America's manufacturing base and creating meaningful jobs across the country, including in historically deindustrialized regions.
+
+We operate an advanced, end-to-end manufacturing platform that partners with industrial companies and innovators to take products from first concept to full-scale production in critical verticals including aerospace and defense, electrification, medical, energy and environment, and robotics and automation.
+
+The way we operate is as important as the work we do. It's guided by The Re:Build Way, 16 principles that shape how we collaborate with each other, partner with our customers and vendors, and contribute to the communities where we operate. *(link to* *The Re:Build Way principles**)*
+
+  
+
+**Who we are looking for**
+--------------------------
+
+Digital innovation is central to Re:Build Manufacturing's mission and essential for scaling as a world-class industrial company. The Forward Deployed Engineer (FDE) in the Digital Innovation Group (DIG) works directly at Re:Build sites alongside collaborators. They quickly prototype and deliver full-stack digital solutions that address real business challenges and create measurable impact. The FDE uses technical skills, AI knowledge, and awareness of industry developments to provide these solutions. They lead client workshops, develop solution strategies, manage critical technical issues, and cultivate positive relationships with site teams. The FDE also ensures risk management by aligning solutions with DIG's security protocols, data standards, and AI governance guidelines while following coding practices. This role suits experienced engineers who combine strong technical insight, customer focus, product awareness, and who excel in responsibility and ownership.
+
+**What you get to do**
+----------------------
+
+* Collaborate directly with team members to understand business processes, difficulties, and success criteria; and proactively uncover new opportunities to implement digital solutions.
+* Own the full lifecycle of prototypes and production solutions, from discovery and prioritization through build, deployment, and post-launch iteration.
+* Build prototype solutions to validate approaches and accelerate discovery.
+* Use knowledge in AI and machine learning to recommend approaches where AI can generate measurable business impact for interested parties.
+* Bring external innovation to internal problems.
+* Identify and resolve bugs in prototypes while optimizing code for performance and scalability.
+* Provide technical mentorship and support throughout implementation, including resolving issues, optimization, and adoption support.
+* Contribute to software build and architecture, ensuring scalability and reliability in line with team goals.
+* Ensure adherence to guidelines and coding standards through code reviews.
+* Develop and maintain technical documentation, implementation playbooks, and reusable assets to accelerate future deployments.
+* Risk, security, and compliance leadership: Guarantee that implementations meet DIG's security protocols, data management criteria, and AI governance standards.
+* Travel up to 50% of the time to portfolio locations, mainly stationed at a particular site to speed up solution implementation (domestic US travel only).
+* Other responsibilities as assigned.
+
+**What you bring to the Team**
+------------------------------
+
+* 3+ years of software engineering, solutions platform delivery or technical implementation experience, ideally in customer-facing contexts.
+* Experienced in programming languages such as Python or similar, with a strong understanding of APIs and systems integration.
+* Ability to rapidly understand unfamiliar technical ecosystems and workflows and build integration paths.
+* Excellent communication skills. Confident translating for both technical and non-technical collaborators.
+* High ownership approach with comfort operating independently, navigating ambiguity.
+* Demonstrated experience working with enterprise customers; particularly in manufacturing, quality, engineering services, or supply chain operations.
+* Experience with LLMs, generative AI pipelines and agent-style automation frameworks (agent workflows, tool orchestration, retrieval-augmented generation).
+* Prior consulting, technical solution engineering or internal tools engineering experience.
+* Demonstrated experience leading complex customer deployments involving cloud infrastructure, identity/SSO, data access, and integration with enterprise systems.
+* Proven ability to establish standards and operating rhythm (playbooks, quality gates, blocking issue models, delivery targets) across distributed teams.
+* Executive-level collaborator management: able to communicate with senior collaborators; adept at navigating ambiguity and driving decisions.
+* Ability to travel up to 50% of the time, with extended periods embedded at specific collaborator sites.
+
+**Preferred Qualifications:**
+-----------------------------
+
+* Solid engineering foundation. Desired areas of study include, though are not restricted to, Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.
+* Familiarity with enterprise ecosystems such as Snowflake, Atlassian suite of tools, and common integration approaches.
+* Background in regulated industries and governance-heavy environments (auditability, privacy, retention).
+* Ability to operate autonomously, thrive under ambiguity, and represent DIG at the highest level in customer environments.
+* Experience partnering with product teams on platformization (turning custom work into reusable product capabilities).
+* Prior enterprise delivery leadership experience driving multi-workstream execution, program governance, and executive steering across complex collaborator environments.
+
+**Export Control Requirement:** Due to applicable export control laws and regulations, candidates must be a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum.
+
+The base salary range for this position is $120,223.00 – $180,334.00 per year. This range represents the Company's good faith estimate of the base compensation for this role at the time of posting. Actual compensation will be determined based on several factors, including but not limited to relevant experience, skills, qualifications, internal equity, and geographic location. In addition to base salary, this role may be eligible for annual incentive compensation and/or long-term incentives, subject to Company plans. The Company offers a comprehensive benefits package including medical, dental, vision, retirement, paid time off, and other benefits.
+
+**The BIG payoff**
+
+We are a company who is going to make a difference in the industries and the communities in which we choose to operate.
+
+Every employee of Re:Build will share ownership in the company and will share in the financial rewards of the success we achieve together, at all levels of the company!
+
+**We want to work with people that reflect the communities in which we operate**
+
+Re:Build Manufacturing is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, marital status, parental status, cultural background, organizational level, work styles, tenure and life experiences. Or for any other reason.
+
+Re:Build is committed to providing reasonable accommodations for qualified individuals with disabilities in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations.ta@ReBuildmanufacturing.com or you may call us at 617.909.6275.",,https://www.indeed.com/cmp/Re-Build-Manufacturing,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1d80c49a6714d57170006653790f6c95,https://www.rebuildmanufacturing.com,"Framingham, MA","1,001 to 5,000",,Re:Build’s mission is to ensure that the next generation of important products are made in America.,,,3.4,7.0,,

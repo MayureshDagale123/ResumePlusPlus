@@ -1,6 +1,7 @@
 const Resume           = require('../models/Resume')
 const OptimizedResume  = require('../models/OptimizedResume')
 const { optimizeResume } = require('../services/ai/aiService')
+const { calculateAtsScore } = require('../utils/atsScorer')
 
 // ─────────────────────────────────────────────────────────────────
 // @desc    Optimize the authenticated user's original resume
@@ -14,8 +15,9 @@ const { optimizeResume } = require('../services/ai/aiService')
 //   2. Validate jobDescription is provided
 //   3. Call Gemini AI with resume JSON + job description
 //   4. Validate AI output (done inside aiService)
-//   5. Save as a new OptimizedResume document
-//   6. Return the saved optimized resume
+//   5. Calculate real ATS score according to our ATS system
+//   6. Save as a new OptimizedResume document with its real ATS score
+//   7. Return the saved optimized resume
 // ─────────────────────────────────────────────────────────────────
 const optimizeResumeHandler = async (req, res) => {
   try {
@@ -54,9 +56,26 @@ const optimizeResumeHandler = async (req, res) => {
     // 4. Call Gemini AI — aiService validates and throws on invalid output
     const optimizedData = await optimizeResume(resumeJSON, jobDescription.trim())
 
-    // 5. Save as a new OptimizedResume (never overwrites the original)
-    const label = jobTitle?.trim() || 'Optimized Resume'
+    // 5. Defensive check: restore any contact info AI might have blanked out
+    const origPI = originalResume.personalInfo || {}
+    optimizedData.personalInfo = {
+      name:     optimizedData.personalInfo?.name?.trim()     || origPI.name     || '',
+      headline: optimizedData.personalInfo?.headline?.trim() || origPI.headline || '',
+      email:    optimizedData.personalInfo?.email?.trim()    || origPI.email    || '',
+      phone:    optimizedData.personalInfo?.phone?.trim()    || origPI.phone    || '',
+      location: optimizedData.personalInfo?.location?.trim() || origPI.location || '',
+      linkedin: optimizedData.personalInfo?.linkedin?.trim() || origPI.linkedin || '',
+      github:   optimizedData.personalInfo?.github?.trim()   || origPI.github   || '',
+    }
 
+    // 6. Calculate real ATS score according to our system against the target job
+    const label = jobTitle?.trim() || 'Optimized Resume'
+    const scoreResult = calculateAtsScore(optimizedData, {
+      jobDescription: jobDescription.trim(),
+      jobTitle: label,
+    })
+
+    // 7. Save as a new OptimizedResume (never overwrites the original)
     const saved = await OptimizedResume.create({
       user:           userId,
       originalResume: originalResume._id,
@@ -64,9 +83,16 @@ const optimizeResumeHandler = async (req, res) => {
       jobTitle:       label,
       resumeData:     optimizedData,
       jobDescription: jobDescription.trim(),
+      atsScore:       scoreResult.score,
     })
 
-    return res.status(201).json({ success: true, data: saved })
+    return res.status(201).json({
+      success: true,
+      data: saved,
+      atsScore: scoreResult.score,
+      isAtsReady: scoreResult.isAtsReady,
+      breakdown: scoreResult.breakdown,
+    })
   } catch (err) {
     console.error('Optimizer error:', err.message)
 

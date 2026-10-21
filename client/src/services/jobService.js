@@ -1,24 +1,35 @@
 /**
  * jobService.js (client-side)
  *
- * All job-related API calls from the frontend.
- * Uses the central axios instance so the JOB_API_KEY never touches the browser.
- *
- * Flow: React component → jobService → /api/jobs (Express) → JSearch API
+ * Job API requests from frontend to Express backend.
+ * Integrates with JobSpy multi-platform scraping service.
  */
 
 import api from './api'
 
 /**
- * Search jobs by keyword and optional location.
- * @param {string} query
- * @param {string} location
- * @param {number} page
+ * Search jobs with multi-platform filter support.
+ *
+ * @param {object|string} params - Search options object or query string
+ * @param {string} [location]    - Optional location if query string passed
  * @returns {Promise<object[]>} Array of Standard Job JSON objects
  */
-export const searchJobs = async (query, location = '', page = 1) => {
-  const { data } = await api.get('/jobs', { params: { query, location, page } })
-  return data.data   // array of Standard Job JSON
+export const searchJobs = async (params, location = '') => {
+  let requestParams = {}
+
+  if (typeof params === 'string') {
+    requestParams = { query: params, location }
+  } else if (params && typeof params === 'object') {
+    requestParams = { ...params }
+  }
+
+  // Format array of sites into comma-separated string if provided
+  if (Array.isArray(requestParams.sites)) {
+    requestParams.sites = requestParams.sites.join(',')
+  }
+
+  const { data } = await api.get('/jobs', { params: requestParams })
+  return data.data || []
 }
 
 /**
@@ -34,7 +45,7 @@ export const getJob = async (id) => {
 /**
  * Save a job for the authenticated user.
  * @param {string} id       - externalId
- * @param {object} jobData  - Standard Job JSON (avoids a second API call on the server)
+ * @param {object} jobData  - Standard Job JSON
  * @returns {Promise<object>} Saved job document
  */
 export const saveJob = async (id, jobData) => {
@@ -52,9 +63,9 @@ export const unsaveJob = async (id) => {
 
 /**
  * Get all saved jobs for the authenticated user.
- * @returns {Promise<object[]>} Array of SavedJob documents (each contains jobData)
+ * @returns {Promise<object[]>} Array of SavedJob documents
  */
 export const getSavedJobs = async () => {
   const { data } = await api.get('/jobs/saved')
-  return data.data
+  return data.data || []
 }

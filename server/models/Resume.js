@@ -10,7 +10,7 @@ const mongoose = require('mongoose')
  *
  * Standard Resume JSON schema:
  * {
- *   personalInfo: { name, email, phone, location, linkedin, github },
+ *   personalInfo: { name, headline, email, phone, location, linkedin, github },
  *   summary: string,
  *   education: [],
  *   skills: [],
@@ -30,6 +30,7 @@ const ResumeSchema = new mongoose.Schema(
     },
     personalInfo: {
       name:     { type: String, default: '' },
+      headline: { type: String, default: '' },
       email:    { type: String, default: '' },
       phone:    { type: String, default: '' },
       location: { type: String, default: '' },

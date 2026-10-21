@@ -1,7 +1,7 @@
 export default function Card({ className = '', children, ...props }) {
   return (
     <div
-      className={`bg-gray-900 border border-gray-800 rounded-xl p-6 ${className}`}
+      className={`bg-white dark:bg-[#0f0f14] border border-gray-200 dark:border-gray-800/90 rounded-2xl p-6 shadow-sm dark:shadow-none text-gray-900 dark:text-gray-100 transition-colors ${className}`}
       {...props}
     >
       {children}

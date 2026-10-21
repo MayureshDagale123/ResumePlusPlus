@@ -1,19 +1,20 @@
 const mongoose = require('mongoose')
 
 /**
- * Job — stores normalized job data fetched from the external Job API.
- * Jobs are cached here so Saved Jobs can still display info even if
- * the external API is down.
+ * Job — stores normalized job data scraped via JobSpy (multi-platform:
+ * LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google, etc.).
+ * Jobs are cached here so Saved Jobs and detail views can still display info.
  *
- * This matches the Standard Job JSON used throughout the app:
+ * Standard Job JSON used throughout the app:
  * { externalId, source, title, company, location, employmentType,
- *   description, applyUrl, postedAt, salary }
+ *   description, applyUrl, postedAt, salary, skills, jobLevel }
  */
 const JobSchema = new mongoose.Schema(
   {
     externalId: {
       type: String,
       required: true,
+      index: true,
     },
     source: {
       type: String,
@@ -34,6 +35,7 @@ const JobSchema = new mongoose.Schema(
       state:   { type: String, default: '' },
       country: { type: String, default: '' },
       remote:  { type: Boolean, default: false },
+      raw:     { type: String, default: '' },
     },
     employmentType: {
       type: String,
@@ -55,12 +57,21 @@ const JobSchema = new mongoose.Schema(
       min:      { type: Number, default: null },
       max:      { type: Number, default: null },
       currency: { type: String, default: '' },
+      interval: { type: String, default: '' },
+    },
+    skills: {
+      type: [String],
+      default: [],
+    },
+    jobLevel: {
+      type: String,
+      default: '',
     },
   },
   { timestamps: true }
 )
 
-// Compound index: each job from a given source is unique by its external id
+// Index for fast lookup by externalId
 JobSchema.index({ externalId: 1, source: 1 }, { unique: true })
 
 module.exports = mongoose.model('Job', JobSchema)

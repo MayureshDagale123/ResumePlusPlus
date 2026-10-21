@@ -25,7 +25,7 @@ const protect = async (req, res, next) => {
     const decoded = jwt.verify(token, process.env.JWT_SECRET)
     req.user = { id: decoded.id }
     next()
-  } catch (err) {
+  } catch {
     return res
       .status(401)
       .json({ success: false, message: 'Not authorized, token failed' })

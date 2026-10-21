@@ -18,13 +18,11 @@
 
 import { useEffect } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom'
-import { useAuth } from '../context/AuthContext'
 import api from '../services/api'
 
 export default function GoogleCallback() {
   const navigate = useNavigate()
   const [searchParams] = useSearchParams()
-  const { login } = useAuth()
 
   useEffect(() => {
     const handleCallback = async () => {
@@ -40,11 +38,10 @@ export default function GoogleCallback() {
         // Store token so the axios interceptor picks it up
         localStorage.setItem('token', token)
 
-        // Fetch user profile
-        const { data } = await api.get('/auth/me')
+        // Verify token with backend
+        await api.get('/auth/me')
 
-        // Use a lightweight approach — reload the page so AuthContext re-hydrates
-        // This avoids having to expose setUser/setToken from AuthContext
+        // Reload so AuthContext re-hydrates from token
         window.location.href = '/dashboard'
       } catch {
         localStorage.removeItem('token')

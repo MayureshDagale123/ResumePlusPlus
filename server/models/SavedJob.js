@@ -4,12 +4,8 @@ const mongoose = require('mongoose')
  * SavedJob — a per-user saved job record.
  *
  * Embedding strategy: full job data is embedded directly in the document
- * (denormalized) so the Saved Jobs page can render all cards even if the
- * external Job API is unavailable.
- *
- * Trade-off: slight data duplication vs guaranteed availability.
- * This is the correct choice for saved jobs because users expect their
- * saved list to always be accessible.
+ * (denormalized) so the Saved Jobs page can render all cards even if external
+ * sources are unreachable.
  */
 const SavedJobSchema = new mongoose.Schema(
   {
@@ -37,6 +33,7 @@ const SavedJobSchema = new mongoose.Schema(
         state:   { type: String, default: '' },
         country: { type: String, default: '' },
         remote:  { type: Boolean, default: false },
+        raw:     { type: String, default: '' },
       },
       employmentType: { type: String, default: '' },
       description:    { type: String, default: '' },
@@ -46,7 +43,10 @@ const SavedJobSchema = new mongoose.Schema(
         min:      { type: Number, default: null },
         max:      { type: Number, default: null },
         currency: { type: String, default: '' },
+        interval: { type: String, default: '' },
       },
+      skills:   { type: [String], default: [] },
+      jobLevel: { type: String, default: '' },
     },
   },
   { timestamps: true }

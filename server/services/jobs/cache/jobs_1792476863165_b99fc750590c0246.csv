@@ -1,0 +1,1014 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type
+in-8fde097bac3a61dd,indeed,https://www.indeed.com/viewjob?jk=8fde097bac3a61dd,https://jobs.ashbyhq.com/engramme/85eaa481-025a-4e46-b3fc-ba8c7bfacc9a?utm_source=17bLe4D7q9,Software Engineer (Full Stack),Engramme,"San Francisco, CA, USA",2026-10-14,fulltime,,,,,,False,,,,,"**What You'll Do**
+==================
+
+* Develop responsive web applications using React and TypeScript
+* Build and maintain RESTful APIs using Node.js and Express
+* Design intuitive user interfaces for complex AI-powered memory features
+* Implement real-time features and optimize application performance
+* Work closely with designers to create pixel-perfect implementations
+* Integrate with AI/ML services and handle complex data visualization
+* Establish frontend architecture patterns and component libraries
+
+**What We're Looking For**
+==========================
+
+* 4+ years of full-stack development experience
+* Proficiency in React, TypeScript, and modern JavaScript (ES6+)
+* Experience with Node.js and Express or similar backend frameworks
+* Strong understanding of database design and SQL
+* Knowledge of responsive design and CSS frameworks (Tailwind, styled-components)
+* Experience with version control (Git) and CI/CD pipelines
+* Understanding of web performance optimization and accessibility
+* Strong communication and collaboration skills
+
+**Nice to Have**
+================
+
+* Experience with AI/ML model integration and data visualization
+* Knowledge of GraphQL and modern API patterns
+* Experience with real-time technologies (WebSockets, WebRTC)
+* Background in SaaS product development
+* Experience with testing frameworks (Jest, Cypress, Playwright)
+* Knowledge of mobile development (React Native)
+* Experience with state management libraries (Redux, Zustand)",,https://www.indeed.com/cmp/Engramme,,,,,,,,,,,,
+in-f5018b6f03cc4343,indeed,https://www.indeed.com/viewjob?jk=f5018b6f03cc4343,https://grnh.se/8z6y14077us,"Web Engineer, X",SpaceXSI,"Palo Alto, CA, USA",2026-10-13,,direct_data,yearly,180000.0,440000.0,USD,False,,,,,"SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.  
+  
+SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.
+
+### **ABOUT THE ROLE:**
+
+We're looking for exceptional Fullstack / Web Engineers that can work across the stack but have a passion for frontend development and a keen eye for design. You'll architect and optimize user-facing features that power real-time conversations for millions worldwide. Dive into cutting-edge technologies and scalable backend systems, collaborating with top-tier talent to push the boundaries of web performance and innovation. You have the ability to thrive in a fast-paced environment, where you proactively tackle high-impact challenges that shape the future of social media—perfect for engineers passionate about crafting seamless, responsive experiences that drive global engagement and redefine digital interaction.
+
+### **RESPONSIBILITIES:**
+
+* Own and drive features from inception and design to implementation and launch, being the web expert on your team.
+* Build and maintain high-quality, performant products and features, leveraging the most modern and cutting edge web standards, technologies, frameworks, and AI tooling.
+* Responsible for fullstack features, including user dashboards, personalized experiences, content delivery, interactive tools, assessments, and real-time analytics
+* Lead architecture, scalability, and reliability decisions for high-concurrency, low-latency systems.
+* Uphold engineering excellence via testing, monitoring, deployment, and secure data handling.
+* Drive technical/product decisions with teams and deploy global features to maximize user value.
+
+### **BASIC QUALIFICATIONS:**
+
+* 2+ years of web development experience.
+* Expert in TypeScript, Node.js, and modern web frameworks (e.g., React).
+* Expert in modern CSS/SASS
+* Experience in high-quality UI and UX design
+* Proven track record of optimizing applications for performance, security, and offline functionality.
+
+### **PREFERRED SKILLS AND EXPERIENCE:**
+
+* 5+ years of experience in a web frontend role, working on a large scale consumer app.
+* Experience with backend development, proficiency in one or more of the following: Rust, Go, Java, Python, Scala.
+
+### **COMPENSATION AND BENEFITS:**
+
+$180,000 - $440,000 USD
+
+Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks.
+
+*SpaceXSI is an equal opportunity employer. For details on data processing, view our* *Recruitment Privacy Notice**.*",,https://www.indeed.com/cmp/Spacexsi,,,,,,,,,,,,
+in-faf9d46b3a557215,indeed,https://www.indeed.com/viewjob?jk=faf9d46b3a557215,https://akina.catsone.com/careers/99975-General/jobs/16863044-Software-Engineer-3--Python-JavaScript-TypeScript/?ref=Indeed,"Software Engineer 3 - (Python, JavaScript, TypeScript)","Akina, Inc.","Fort Meade, MD, USA",2026-10-12,,direct_data,yearly,241000.0,295000.0,USD,False,,,,,"**Software Engineer 3 - (Python, JavaScript, TypeScript)**
+
+**Clearance:** TS/SCI - Polygraph required  
+**Position ID:** 20-27-002-SWE3  
+**Location:** Fort Meade, Maryland
+
+**Description:**
+
+We are seeking a high-caliber software engineer to join the team in a rapid development and deployment environment. In this role, you will provide end-to-end engineering support to architect, build, and maintain robust, large-scale distributed web applications and cloud-native systems. A key focus of this position is the ability to react swiftly to emergent mission opportunities, rapidly prototyping and fielding critical capabilities under compressed timelines. You will collaborate closely with cross-functional teammates, analysts, and security researchers operating within the offensive cyber space to modernize infrastructure, integrate automated workflows, and address complex technical challenges. Ultimately, your responsiveness and technical rigor will directly accelerate mission success by leveraging modern cloud architectures, cutting-edge automation, and AI-assisted development tools to deliver actionable insights.
+
+* Develop and maintain robust, large-scale distributed web applications and full-stack solutions utilizing JavaScript/TypeScript, Node.js, and Python.
+* Architect scalable microservices, REST middleware, and backend data processing pipelines capable of supporting high-tempo mission requirements.
+* Deploy and manage services across cloud-native and high-side environments (e.g., MACHINESHOP, AWS, C2S) utilizing Infrastructure-as-Code (IaC) and DevOps automation.
+* Create and maintain automated CI/CD pipelines (e.g., GitLab CI/CD) to ensure rapid, secure, and reliable software delivery.
+* Collaborate with cross-functional teams, mission analysts, and vulnerability researchers to integrate engineering best practices into offensive cyber tooling and rapid-response capabilities.
+* Utilize AI-assisted development workflows (e.g., Claude Code, Codex, Opencode) to maximize development velocity when addressing emergent mission opportunities.
+
+**Position Required Skills:**
+
+* Production-grade software development experience in Python, JavaScript, and TypeScript building enterprise-grade, distributed web applications.
+* Experience with high-side development environments and non-attributed network configurations.
+* Knowledge of end-to-end full-stack architecture, including modern frontend design, RESTful APIs, relational/non-relational databases, and backend services.
+* Experience with DevOps automation, containerization technologies (Docker), continuous integration pipelines, and cloud service providers (AWS/C2S).
+* Knowledge of modern software engineering practices, such as Git-based version control, testing frameworks, and agile workflows within collaborative team structures
+
+**Nice to Haves**
+
+* Experience working within or interest in offensive cyber operations, vulnerability research, and software reverse engineering.
+* Experience using and configuring AI-assisted development tools (Claude Code, Codex, Opencode) via skills, memory, or custom extensions.
+* Familiarity with modern UI libraries (React, Angular, Vue) alongside legacy stacks (Bootstrap, jQuery).
+* Knowledge of mobile vulnerability research and Android application architecture.
+* Experience with low-level programming (C/C++), debugging tools (gdb), or legacy analytics frameworks (Java Map/Reduce, GHOSTMACHINE).
+
+**SWE3 Qualifications:**
+
+A minimum of twelve (12) years of experience as a SWE in programs and contracts of similar scope, type, and complexity is required. Bachelor's degree in Computer Science or related discipline from an accredited college or university is required. Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelor's degree.
+
+**Salary Range:** *$241k-$295k (Annually)*
+
+*The range displayed above is a likely salary range for this position. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possible contractual requirements and could fall outside of this range.*
+
+***Akina is a Woman Owned, Service Disabled, Veteran Owned, Small Business, looking for talented and ambitious individuals to join our team. We offer a generous compensation package that includes 24 days PTO accrued annually and 11 federal holidays. Our 401k is 100% vested on your start date and the company makes a direct contribution worth 10% of your salary. Akina covers 100% of healthcare costs for employees and 50% toward dependents. We offer educational assistance towards college classes and will cover costs associated with job related training and certifications.***
+
+***Akina is committed to excellence and creating innovative and flexible solutions for our clients. We are a small company with an open ear to our employees' needs in order to attract and retain quality talent that enables our customer's mission.***
+
+***We are an equal employment opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.***
+
+www.akina-inc.com/careers",,"https://www.indeed.com/cmp/Akina,-Inc.",,https://www.akina-inc.com,Maryland,,,"Akina, Inc. is a Native American, woman-owned SDVOSB providing project management, software, and systems engineering services to the Intelligence Community and the Department of Defense.",,,,,,
+in-1c07610ec4fa3e5d,indeed,https://www.indeed.com/viewjob?jk=1c07610ec4fa3e5d,https://jobs.ashbyhq.com/taxo/5256e677-0f8c-4fb9-9771-b59094e7b39a?utm_source=rElNZvNLXg,Senior Software Engineer (Voice AI),TAXO,"New York, NY, USA",2026-10-12,fulltime,direct_data,yearly,180000.0,220000.0,USD,False,,,,,"**Senior Software Engineer (Voice AI)**
+
+Location: New York City | In-office
+
+**The Mission**
+===============
+
+*“Leading healthcare into the agentic era.”*
+
+Every day, patients call their clinic to schedule an appointment, ask a question, or request a prescription refill. Behind each conversation is a busy healthcare team coordinating people, information, and systems.
+
+Taxo builds Voice AI agents that take on this administrative work. Our agents connect with EHR and practice management systems to help teams handle patient intake, complex scheduling, and refill requests, with reliable workflows and clear handoffs to people.
+
+**The Opportunity: Own the Voice Experience**
+=============================================
+
+As our Senior Software Engineer (Voice AI), you’ll report to the CTO and own defined voice-runtime services that make a voice agent useful in a real healthcare conversation. You’ll build and operate speech, turn-taking, interruption handling, tool orchestration, observability, and production fixes for the services you own, while contributing to broader platform decisions with the CTO and engineering team. This is a hands-on role with direct influence on how the product works.
+
+**What You’ll Do**
+==================
+
+* **Build the Core:** Build and improve real-time voice agents for healthcare administrative workflows, including intake, scheduling, and refill requests.
+* **Connect the Pipeline:** Develop the conversation pipeline across speech recognition, language models, speech generation, and telephony integrations.
+* **Get the Conversation Right:** Improve turn-taking, interruption handling, response latency, and recovery when a conversation or external system goes off track.
+* **Integrate Deep:** Build voice-agent orchestration and tool calls on shared backend APIs and EHR connectors, partnering with the engineers who own those services and integrations.
+* **Measure Voice Performance:** Own voice-component tests and production instrumentation for latency, turn-taking, and tool execution. Partner with the quality engineering team on shared evaluation tooling and cross-product regression coverage.
+* **Own Voice Production:** Own voice-service observability, on-call response, diagnosis, and fixes. Use quality findings and rollout feedback to improve live voice behavior.
+
+**The Stack**
+=============
+
+We move fast with a modern toolkit:
+
+* **Frontend:** React, Next.js
+* **Backend:** Node.js (TypeScript)
+* **Data & Infrastructure:** PostgreSQL, AWS
+* **Intelligence:** LLMs and Voice AI integration
+
+**Who You Are**
+===============
+
+* **The Builder:** Hands-on experience shipping and operating real-time voice AI systems in production, including turn-taking, interruption handling, latency, and recovery from failures.
+* **The AI Engineer:** Strong software engineering skills and practical experience with LLMs, agent frameworks, tool calling, and external APIs.
+* **The Problem Solver:** Practical experience balancing latency, accuracy, cost, and voice conversation quality in live systems.
+* **The Architect:** The ability to debug distributed systems and take ownership of reliability, observability, and testing.
+* **The Product Partner:** Product judgment, clear communication, and a track record of moving from an ambiguous problem to a working solution.
+* **The Owner:** Careful judgment around sensitive data, access controls, and safe escalation to a human.
+* **Bonus:** Experience with streaming audio, SIP/VoIP, healthcare workflows, EHR integrations, or privacy-sensitive systems.
+
+**Why Taxo**
+============
+
+Healthcare teams should be able to spend more time on patients and less time on administration. Help us build the products and company that make that possible.
+
+* **Frontier AI Work:** Work on voice agents, real-time inference, tool use, and the hard problems of conversational quality.
+* **Impact That Matters:** Build systems that reduce administrative work and make it easier for patients to reach their care teams.
+* **Real Ownership:** Take a problem from the first prototype through release, measurement, and improvement.
+
+**Compensation**
+================
+
+Base salary: $180,000–$220,000 USD annually
+
+Equity: 0.20%–0.50%
+
+Benefits: Health coverage
+
+**How We Work**
+===============
+
+Taxo is a small, fast, high-conviction team. We care deeply about the problem, move with urgency, and take ownership of the work. We collaborate closely, make practical decisions, and keep improving through what we learn from customers.
+
+If you want to build voice AI that works in the real world of healthcare, we’d love to hear from you.",,https://www.indeed.com/cmp/Taxo,,,,,,,,,3.3,4.0,,
+in-6885a191a15915c0,indeed,https://www.indeed.com/viewjob?jk=6885a191a15915c0,https://careers.bitwise.tech/careers/101033-General/jobs/16862935-Software-Engineer-SWE-Level-3/?ref=Indeed,"Software Engineer (SWE), Level 3","Bitwise, LLC","Fort Meade, MD, USA",2026-10-09,,direct_data,yearly,282000.0,332000.0,USD,False,,,,,"**Software Engineer (SWE), Level 3**
+====================================
+
+**An active TS//SCI clearance with polygraph is required for this role**
+
+**Hey!**
+
+Bitwise is a leading provider of mission-focused intelligence solutions that advance national security for the Intelligence Community and Department of Defense. We're a small and growing company, so you can expect to hop in on the ground floor with us and be a consequential member of the team. You'll be more than a contract performer for us — you'll also be asked for ideas to improve our company and improve your career, and you'll contribute to our team culture. We value growth and community above almost all else, so we gather regularly for game nights, happy hours, tech talks, and plenty more. We think you'll like it here!
+
+Remember, Bitwise is not a cult.
+
+**What We Look For**
+--------------------
+
+Bitwise hires talented engineers who are driven by purpose and who value a culture of technical excellence, growth, and overall wellness. We deliver new and innovative intelligence solutions to our customers at the very forefront of our country's national security missions. And we do it every single day. Our work matters, and so will you.
+
+We ask that every new hire be able to:
+
+* Contribute meaningful thought leadership — if not right away, over time
+* Interact with our customers and earn their confidence in your abilities
+* Be detailed, even if that means taking a little more time to get it right
+* Contribute their ideas and ideals to improve all aspects of our company
+* Allow us to invest in their education so we both grow together
+* Know and live our core values every single day
+
+**About this Role**
+-------------------
+
+You'll join a rapid development and deployment environment where you'll provide end-to-end engineering support to architect, build, and maintain robust, large-scale distributed web applications and cloud-native systems. In this role, your ability to react swiftly to emergent mission opportunities will be critical — you'll rapidly prototype and field capabilities under compressed timelines while maintaining technical rigor and security standards.
+
+You'll work closely with cross-functional teammates, mission analysts, and security researchers to modernize infrastructure, integrate automated workflows, and solve complex technical challenges in the offensive cyber space. Your responsiveness and engineering excellence will directly accelerate mission success by leveraging modern cloud architectures, cutting-edge automation, and AI-assisted development tools to deliver actionable insights.
+
+**What you'll do:**
+
+* Develop and maintain robust, large-scale distributed web applications and full-stack solutions utilizing JavaScript/TypeScript, Node.js, and Python
+* Architect scalable microservices, REST middleware, and backend data processing pipelines capable of supporting high-tempo mission requirements
+* Deploy and manage services across cloud-native and high-side environments utilizing Infrastructure-as-Code (IaC) and DevOps automation
+* Create and maintain automated CI/CD pipelines to ensure rapid, secure, and reliable software delivery
+* Collaborate with cross-functional teams, mission analysts, and vulnerability researchers to integrate engineering best practices into offensive cyber tooling and rapid-response capabilities
+* Utilize AI-assisted development workflows to maximize development velocity when addressing emergent mission opportunities
+
+**Requirements**
+----------------
+
+* **12+ years of relevant experience with a B.S. in a technical discipline, or 16+ years of relevant experience without a degree**
+* Production-grade software development experience in Python, JavaScript, and TypeScript building enterprise-grade, distributed web applications
+* Experience with high-side development environments and non-attributed network configurations
+* Knowledge of end-to-end full-stack architecture, including modern frontend design, RESTful APIs, relational/non-relational databases, and backend services
+* Experience with DevOps automation, containerization technologies (Docker), continuous integration pipelines, and cloud service providers
+* Knowledge of modern software engineering practices, such as Git-based version control, testing frameworks, and agile workflows within collaborative team structures
+
+**Preferred Skills**
+--------------------
+
+* Experience working within or interest in offensive cyber operations, vulnerability research, and software reverse engineering
+* Experience using and configuring AI-assisted development tools via skills, memory, or custom extensions
+* Familiarity with modern UI libraries (React, Angular, Vue) alongside legacy stacks (Bootstrap, jQuery)
+* Knowledge of mobile vulnerability research and Android application architecture
+* Experience with low-level programming (C/C++), debugging tools (gdb), or legacy analytics frameworks
+
+**️ Benefits at Bitwise**
+-------------------------
+
+* Top salaries because we're top performers
+* Pick your PTO — Everyone values time and money differently, so we give you the flexibility to choose between 3 and 5 weeks of PTO with a corresponding adjustment to your pay. Your choice, your balance.
+* All 11 federal holidays, paid!
+* Up to 2 snow days, paid!
+We'll quadruple (4x!) the first 6% you contribute to your 401(k), giving you up to a 24% company match. Contributing less than 6%? Unclaimed matches come right back to you as extra income, giving you a guaranteed 24% that goes to your retirement, to your paycheck, or both. C'mon now!* 100% employer-paid medical, dental, vision, life, and disability insurances. That's a lot. Already covered on health insurance? No problem — we'll trade you this benefit for a boost to your salary instead.
+* $5,250 annual education assistance for training, certifications, tuition, and even student loan repayments.
+Spot bonuses for obtained certifications, customer recognition, and just about anything else that makes us go ""Hot damn!"". We hope to say that many times about you.
+
+**Salary Range**
+----------------
+
+$282,000 – $332,000
+
+This range includes our flex income and depends upon your annual work hours.
+
+Salary is determined on an individual basis following the interview process and considering various factors such as years of experience, skills, education, and certifications.
+
+**️ What to Expect After Applying**
+-----------------------------------
+
+You'll get an email from us right away to acknowledge your application. After that, we'll:
+
+* Send over additional company materials for you to review
+* Schedule a video call to talk about you, our company, and your place in it
+* Craft a delightful offer package for you and record a video walkthrough
+* Work closely with you through onboarding. We'll keep it joyful and easy.
+
+**ℹ️ Disclaimers**
+------------------
+
+Bitwise is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected status. All employment decisions are based on qualifications, merit, and business needs.
+
+Compensation for this position, including all compensation options, will be determined on an individual basis following the interview process.
+
+If you require accommodations at any stage of the application or interview process, please reach out to us.
+
+Last updated: 10/19/26",,"https://www.indeed.com/cmp/Bitwise,-LLC-1",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a373b01a4345118ac5d7547a90ea3a9a,https://www.bitwise.tech/,Maryland,,,"Bitwise is a human-engineered technology company delivering mission-focused solutions for federal agencies and private industry to drive meaningful, community-centered impact.",,,,,,
+in-221dce02ae4400cf,indeed,https://www.indeed.com/viewjob?jk=221dce02ae4400cf,https://grnh.se/vcmjft6t7us,Senior Full-Stack Engineer,10Beauty,"Burlington, MA, USA",2026-09-25,,direct_data,yearly,135000.0,150000.0,USD,False,,,,,"10Beauty is a robotics startup based in Burlington, MA on a mission to forever change the beauty and wellness space. We have raised $70M from some of the leading venture and celebrity investors in the country to build the world's first fully autonomous 5-step manicure machine. We have pre-sold our first 1,000 machines to some of the most iconic brands in America, including Ulta Beauty, Nordstrom, Equinox and Marriott.
+
+As of November 2025, we launched our first robot at Ulta Beauty in Everett, MA and are continuing to scale across said brand locations above. We are a fast growing 60+ person organization with deep robotics experience.
+
+Come join the company who will put 'beauty robotics' on the map!
+
+**Introduction:**
+
+10Beauty is seeking a talented and passionate Senior Full-Stack Engineer to join our growing engineering team. In this role, you will be instrumental in building and maintaining cloud-based applications that power our robots. You will be responsible for developing solutions that enable seamless control, real-time monitoring, and insightful data reporting from our robotic fleet. This is a unique opportunity to work at the intersection of robotics and cloud technologies, contributing directly to the intelligence and autonomy of our advanced robots!
+
+**What you'll do:**
+
+* Design, develop, and deploy scalable and reliable full-stack cloud applications using a variety of technologies  
+  + Build user-friendly web interfaces and APIs for controlling robot behavior, configuring tasks, and managing deployments
+  + Develop robust backend systems for processing and storing real-time telemetry data, sensor readings, and operational logs from robots
+  + Implement data visualization tools and dashboards to provide insightful reporting and analytics on robot performance and operational efficiency
+  + Collaborate closely with embedded engineers, AI/ML specialists, and business owners to understand requirements and translate them into technical solutions
+  + Design and implement secure and efficient data communication protocols between robots and the cloud
+  + Contribute to the development and maintenance of our cloud infrastructure (e.g., AWS, Azure, GCP)
+  + Monitor application performance, troubleshoot issues, and implement solutions to ensure high availability and reliability
+  + Contribute to the architectural design and technical roadmap of our cloud platform
+  + Participate in code reviews and contribute to maintaining high code quality standards
+  + Document technical designs, APIs, and deployment processes
+
+**What you have:**
+
+* Bachelor's degree in Computer Science, Software Engineering, or a related field or relevant work experience  
+  + Proven experience (5+ years) as a Full Stack Engineer
+  + Strong proficiency in at least one backend programming language such as Python, Java, Node.js, Go, or C++
+  + Experience designing and building RESTful APIs and microservices
+  + Hands-on experience with cloud platforms (AWS, Azure, or GCP) and their core services (e.g., EC2, ECS/Kubernetes, S3, RDS, serverless functions)
+  + Experience with database technologies, both relational (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB, Cassandra)
+  + Strong understanding of software development best practices, including testing, version control (Git), and agile methodologies
+
+**Preferred Qualifications:**
+
+* KnowledgeExperience working with robotic systems or IoT devices
+* Knowledge of communication protocols relevant to robotics (e.g., gRPC, MQTT)
+* Experience with data streaming platforms (e.g., Kafka, Pulsar)
+* Experience with data visualization libraries (e.g., D3.js, Chart.js)
+* Familiarity with security best practices for cloud applications
+
+*We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status*.
+
+### **Thank you for considering 10Beauty!**",,https://www.indeed.com/cmp/10beauty,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cc959052434a2435d8ba7b040d949eaa,https://www.10beauty.co/,"10 Ray Avenue
+Burlington, MA
+01803",11 to 50,,"A diverse team redefining beauty through robotic manicure technology and artistry. We create consistent, accessible experiences with a growth mindset, shared purpose, collaboration, and diversity.",,,,,,
+in-c03bb6698063b99e,indeed,https://www.indeed.com/viewjob?jk=c03bb6698063b99e,https://sundaysky.com/careers/co/us/BA.277/principal-engineer/all/?coref=1.11.p1F_BC12,Principal Engineer,SundaySky,"Remote, USA",2026-09-12,fulltime,direct_data,yearly,225000.0,250000.0,USD,False,,,,,"**Company Overview**
+
+SundaySky is a category-defining SaaS platform that enables enterprises and upper mid-market organizations to deliver highly personalized video experiences at scale across the entire customer lifecycle. Built for modern, data-driven teams, the platform empowers marketers, CX leaders and field organizations to transform complex data into dynamic, relevant video communications that deepen engagement, improve the customer experience, increase conversion, and strengthen long-term relationships. Founded in Tel Aviv in 2007, SundaySky serves some of the world’s most recognized banking, financial services, and insurance firms. As the pioneer of AI-powered video personalization, SundaySky reimagines how enterprises communicate. Moving beyond static, one-size-fits-all content to intelligent, adaptive video experiences. The platform combines generative AI, real-time rendering, and an intuitive creation workflow to make personalized video fast, scalable, and measurable. By unifying creation, personalization, distribution, and optimization in a single system, SundaySky enables teams to deliver emotionally resonant experiences that drive outcomes, turning video into a core growth and engagement engine rather than a costly, slow-moving production exercise.
+
+**Investment History**
+
+In July 2022, SundaySky completed a $100 million investment from the private equity firm Clearhaven Partners, providing capital for growth and innovation. This investment completes the transition of the business from a managed services company to a SaaS company, enabling the next stage of growth. Clearhaven is a Boston-based private equity firm focused exclusively on software and technology investments. Founded in 2019 by an investor-operator team with over 50 years of combined experience, Clearhaven was purpose-built to partner with differentiated, growth-stage software companies. The firm invests thematically in high-quality B2B software businesses, supporting management teams seeking an operationally focused partner to drive transformational growth.
+
+**The Opportunity**
+
+SundaySky is positioned in an incredible market for personalized, enterprise video. The company represents an extremely attractive opportunity in a fast-growing market:
+
+* Compelling financial profile
+* $25M+ revenue
+* 20%+ SaaS bookings growth in 2025 vs. 2024
+* EBITDA positive
+* 80 FTE globally
+* Significant market opportunity
+* TAM for Enterprise Video Content Management
+* $48B+ TAM with a growing CAGR of 13% by 2030
+* 65% of businesses use videos for customer service, 61% of companies use videos for employee communications
+* Opportunity to activate moments that matter during the customer lifecycle through personalized video to drive real business outcomes
+* Strong Customer Base
+* Blue chip customer base in banking, financial services and insurance
+* Leading banks and financial service firms such as Bank of America, Schwab, Morgan Stanley, T. Rowe Price, Ascensus, Broadview and Bread Financial
+* Health, commercial and property insurance firms including Chubb, Zurich America, Progressive, Liberty, Aetna, UnitedHealth Care, Anthem, Emblem, Kaiser Permanente, and Florida Blue
+
+**About the Role**
+
+We are seeking a Principal Engineer to provide hands-on technical leadership across SundaySky's product and platform. This is a senior individual-contributor role for an engineer who can turn ambiguous business and product goals into durable architecture, lead the most complex cross-platform initiatives, and materially improve how the engineering organization designs and delivers software. The ideal candidate combines deep full-stack and distributed-systems expertise with pragmatic judgment, strong product thinking, and the ability to influence through technical credibility. This person will remain close to the code while setting direction across video creation, personalization, rendering, data, AI, distribution, and the shared platform capabilities that support them.
+
+  
+Requirements:
+  
+
+* Approximately 12 or more years of professional software development experience, including significant technical leadership in production SaaS environments.
+* A sustained record of designing, building, and operating complex, business-critical software platforms at scale.
+* Expert full-stack engineering capability, with deep experience in modern JavaScript and TypeScript and strong proficiency in at least one backend technology such as Node.js, Python, Java, or C#.
+* Advanced experience with modern frontend architecture, preferably React, including component systems, state management, performance, accessibility, browser behavior, and complex workflow-oriented applications.
+* Deep expertise in distributed systems, service architecture, APIs, asynchronous workflows, event-driven patterns, background processing, and failure handling.
+* Strong experience with relational and non-relational data architecture, schema design, data integrity, migration strategies, and performance optimization.
+* Experience designing enterprise integrations involving third-party APIs, identity providers, data platforms, webhooks, file exchange, and event-based interfaces.
+* Deep understanding of cloud-native architecture, preferably AWS, including containers, serverless services, networking, storage, compute, deployment patterns, and cost management.
+* Experience establishing CI/CD, infrastructure-as-code, automated testing, observability, and production-operability practices for distributed applications.
+* Strong knowledge of application and platform security, authentication, authorization, tenant isolation, secrets management, data protection, privacy, and secure software development.
+* Experience designing for scalability, resilience, high availability, graceful degradation, disaster recovery, and measurable service-level objectives.
+* Demonstrated ability to modernize a mature platform incrementally while continuing to deliver product capabilities and protect customer commitments.
+* Demonstrated ability to lead architecture and implementation across multiple teams without relying on formal reporting authority.
+* Strong written and verbal communication skills, including the ability to explain complex technical decisions, tradeoffs, and risks to varied audiences.
+
+**﻿Preferred Technical Experience**
+
+* Experience with video, audio, media processing, creative tooling, animation, rendering, transcoding, or digital asset management.
+* Experience with browser-based motion graphics using React, JavaScript, CSS animations, Canvas, WebGL, WebAssembly, or related technologies.
+* Experience with generative AI, large language models, retrieval-augmented generation, agentic workflows, prompt orchestration, or AI-generated media.
+* Experience architecting configurable enterprise platforms and internal developer platforms with reusable services, fine-grained permissions, approval workflows, auditability, and governance controls.
+* Experience with high-throughput job orchestration, message queues, event buses, streaming systems, or distributed rendering workloads.
+* Experience with enterprise data connectivity, CRM or customer-data platforms, personalized content systems, or customers in regulated industries such as banking, financial services, and insurance.
+* Experience with AWS or another major cloud provider.
+* Experience with PostgreSQL.
+* Experience with automated browser testing frameworks.
+* Experience with event-driven systems, background jobs, message queues, or asynchronous processing.
+* Experience integrating third-party applications or services.
+* Experience working on a multi-tenant SaaS platform.
+* Experience in an Agile or iterative product-development environment.
+
+**Principal-Level Expectations**
+
+A successful Principal Engineer should be able to:
+
+* Set coherent technical direction across multiple products, teams, and planning horizons.
+* Personally solve the highest-leverage technical problems while enabling others to execute the broader solution.
+* Convert ambiguous strategic goals into clear architecture, technical milestones, ownership boundaries, and delivery paths.
+* Make consequential technical decisions with incomplete information and clearly articulate the assumptions and tradeoffs involved.
+* Recognize systemic risks and architectural constraints before they become delivery or production failures.
+* Create durable organizational leverage through platforms, standards, tools, documentation, and stronger technical leaders.
+* Build alignment across teams, resolve technical disagreements constructively, and influence decisions through evidence and credibility.
+* Balance immediate business needs with scalability, reliability, security, maintainability, and long-term platform evolution.
+* Raise engineering quality and delivery confidence without becoming a bottleneck or centralizing every decision.
+* Demonstrate accountability for the health, evolution, and business impact of the platform as a whole.
+
+**Compensation & Benefits**
+
+Base salary: $225,000-$250,000 annually
+
+Additional compensation and benefits include an annual bonus, equity, 401(k), medical, dental, and vision insurance, short-term disability coverage, and paid parental leave.
+
+***SundaySky is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Different makes us better.***
+
+  
+Responsibilities:
+  
+
+* Define and evolve the technical architecture for SundaySky's multi-tenant SaaS platform across frontend applications, backend services, data systems, media pipelines, integrations, and cloud infrastructure.
+* Lead the technical strategy and design for the company's highest-risk, most ambiguous, and most cross-cutting product and platform initiatives.
+* Translate business strategy, product requirements, and customer needs into scalable technical capabilities, sequenced investments, and executable implementation plans.
+* Serve as a hands-on technical leader by prototyping critical paths, contributing production code, reviewing high-impact changes, and resolving the hardest engineering problems.
+* Establish clear architectural principles, service boundaries, integration patterns, data contracts, and decision records that enable teams to move quickly without creating unnecessary complexity.
+* Drive modernization of established platform components while preserving business continuity and the delivery of new customer value.
+* Identify and address systemic risks involving scalability, performance, reliability, availability, security, privacy, operability, and maintainability.
+* Guide the architecture of video creation, real-time and batch rendering, personalization, animation, media processing, asset management, analytics, and distribution capabilities.
+* Shape the responsible use of generative AI, large language models, synthetic media, and AI-assisted engineering tools across the product and development lifecycle.
+* Partner with Product and UX to evaluate solution options, expose constraints early, and balance customer value, delivery speed, platform leverage, and long-term technical health.
+* Partner with Engineering leadership, DevOps, QA, and Security to improve system design, delivery practices, production readiness, and operational resilience.
+* Lead technical discovery, architecture reviews, design reviews, and cross-team alignment for major initiatives.
+* Create leverage through shared frameworks, reusable components, platform services, automation, developer tooling, and well-defined engineering standards.
+* Raise the quality of technical decision-making through rigorous code reviews, design feedback, mentoring, pairing, and clear written communication.
+* Coach senior and mid-level engineers, develop emerging technical leaders, and help teams independently make sound architectural decisions.
+* Improve observability, capacity planning, incident response, root-cause analysis, and the elimination of recurring production issues.
+* Evaluate new technologies and external platforms through focused experimentation, evidence-based tradeoffs, and clear adoption recommendations.
+* Communicate technical strategy, architectural decisions, risks, and tradeoffs effectively to both engineering and non-technical stakeholders.",,https://www.indeed.com/cmp/Sundaysky,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7d33bc218254d8d25fb22323be8b6e4d,https://www.sundaysky.com,"New York, NY",51 to 200,$25M to $100M (USD),"SundaySky is leading the video revolution. Our platform unleashes the power of video for every organization by making it easier to produce, distribute, and optimize at scale.",,,4.2,11.0,,
+in-8aee63ac71f4f01e,indeed,https://www.indeed.com/viewjob?jk=8aee63ac71f4f01e,https://grnh.se/wijl3be25us,"Staff Software Engineer, Security Engineering",Coalition Inc.,"Remote, USA",2026-09-11,,direct_data,yearly,160000.0,230000.0,USD,True,,,,candidateaccommodations@coalitioninc.com,"#### **About us**
+
+Coalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. Founded in 2017, Coalition combines comprehensive insurance coverage and innovative cybersecurity tools to help businesses manage and mitigate potential cyberattacks.
+
+Opportunities to make an impact with bold thinking are real—and happening daily at Coalition.
+
+#### **About the role**
+
+This is a Staff-level individual contributor role and the technical lead for the Security Engineering team behind Coalition Control, the platform that helps our policyholders manage their cyber risk and protect themselves from cyber crime. You'll own critical backend services end-to-end, set the technical direction, and be the person other engineers turn to for decisions and mentorship.
+
+We operate more like a Series B startup than a big-company engineering org: small teams, lots of ownership, a strong bias for shipping and iterating, and very little ceremony. Control is evolving fast, with new products like Login Security (protection for policyholders' identities and inboxes, built on Wirespeed) just released as an MVP, and more on the way for new sets of policyholders. We build with AI throughout (Cursor and Claude), so you can just cook.
+
+#### **Responsibilities**
+
+* **Ship product fast:** Work with Product, Design and Engineering to turn high-level goals into iterative plans, shape scope, and build and refine prototypes quickly, contributing across the stack with depth in backend.
+* **Strengthen the platform:** Own the technical vision, architecture, and expansion of the backend systems powering Coalition Control (Python/FastAPI, with Go services and a TypeScript/React frontend), and contribute to other Coalition Security Products. Take systems spread across many microservices and simplify them for a saner future.
+* **Hold a high bar for engineering craft:** Raise our standards for code, code reviews, testing, and reliability. Use our AI stack to gather context, define requirements, and get code written faster, so you spend your time on the decisions that matter.
+* **Unblock and elevate the team:** Lead the Control team of four engineers within a Security Engineering group of up to 15. Guide others through architectural trade-offs, give thoughtful but quick code reviews, and share what you know.
+* **Work across lines:** Partner with a wide range of teams and departments, and ramp up quickly into owning many technical decisions and their execution.
+* **Share the pager:** Join an on-call rotation across the Security Engineering team (one week roughly every eight weeks, with the team typically paged once or twice a month).
+
+#### **Skills and Qualifications**
+
+* Proven experience as a backend engineer designing and building distributed, event-driven systems and cloud-based services in production, ideally with tools like SQS or Kafka on AWS.
+* Demonstrated technical leadership, including influencing architecture, setting standards, mentoring other engineers, and collaborating effectively across teams.
+* Strong proficiency in a modern backend language and framework. Python/FastAPI is a plus, and Go experience is not required. Comfort with TypeScript/Node.js, and React.js is a plus.
+* Strong, hands-on use of AI-assisted development workflows (we generate the vast majority of our code with AI tools like Cursor and Claude).
+* Hands-on experience designing, implementing, and maintaining APIs, as well as integrating with third-party APIs or platforms.
+* A track record of taking complex existing systems and making them simpler and easier to evolve.
+* Empathy for the people using what you build, though you don't need to come from a company with massive scale.
+* Solid understanding of security concepts and practices. Experience in cybersecurity is a plus, but not required.
+* Clear, direct communication, human to human, and a practical, outcome-oriented approach to problem solving.
+
+#### **Compensation**
+
+Our compensation reflects the cost of labor across several US geographic markets. The US base salary for this position ranges from $160,000/year in our lowest geographic market up to $230,000/year in our highest geographic market. Consistent with applicable laws, an employee's pay within this range is based on a number of factors, which include but are not limited to relevant education, skills, job-related knowledge, qualifications, work experience, credentials, and/or geographic location. Your recruiter can share more on target salary for your location during the interview process. Coalition, Inc. reserves the right to modify this range as needed.
+
+#### **Perks**
+
+* 100% medical, dental and vision coverage
+* Flexible PTO policy
+* Annual home office stipend and WeWork access
+* Mental & physical health wellness programs (One Medical, Headspace, Wellhub, and more)!
+* Competitive compensation and opportunity for advancement
+
+#### **Why Coalition?**
+
+Work at Coalition is centered on the joint mission to Protect the Unprotected. We have built a remote-first, highly inclusive culture that welcomes people from diverse backgrounds. We trust each other to take responsibility, share ownership of outcomes, and put in the work together to protect businesses from digital risk. Coalition's exceptional growth stems from its ability to address real-world problems for organizations of all sizes while remaining true to our founding values of character, humility, responsibility, purpose, authenticity, and inclusion.
+
+We're always looking for collaborative, inquisitive individuals to join #OurCoalition.
+
+Visit our Newsroom >
+
+#### **Privacy Notice**
+
+Coalition is committed to protecting your privacy and handling your personal information responsibly. We collect, use, and store personal information as necessary for the recruitment process and in compliance with applicable privacy laws and regulations in all regions where we operate. We want you to understand what personal information we collect, how we use it, and your rights regarding access, correction, and deletion of your data where applicable. Information submitted, collected, and processed as part of your application is subject to Coalition's Privacy Policy. For further details, please review our full Privacy Policy or contact us with any questions regarding how your information is handled.
+
+Our Privacy Policy >
+
+#### **Safe Hiring Notice**
+
+All legitimate communication from Coalition comes from @coalitioninc.com emails, and open roles are listed only on our Careers page. We never ask for payment, banking details, or personal identification before an offer is accepted through our secure systems. If you believe you've been a victim of fraudulent recruiting, follow guidance from the Federal Trade Commission (FTC).
+
+#### **Anti-Discrimination Notice**
+
+Coalition is proud to be an Equal Opportunity employer. Our policy is to provide equal employment opportunities to all individuals, without discrimination or harassment on the basis of any characteristic protected by applicable laws in each country where we operate. This commitment includes, but is not limited to, ensuring equal treatment in recruitment, selection, training, promotion, transfer, compensation, and all other aspects of employment. Coalition does not tolerate discrimination or harassment of any kind, and we are dedicated to fostering an inclusive and supportive workplace.
+
+#### **Accommodations**
+
+Coalition is committed to providing reasonable accommodations to qualified individuals with disabilities, including applicants and employees, in accordance with applicable laws and regulations in each country where we operate. Our policy is to support equal opportunity in the hiring process by considering qualified applicants regardless of disability or other protected characteristics, unless providing accommodation would impose an undue hardship or disproportionate burden. If you require accommodation to complete an application, interview, pre-employment testing, or participate in the selection process, please contact us at candidateaccommodations@coalitioninc.com. We also consider all qualified applicants, including those with criminal histories, in line with applicable laws and regulations in each jurisdiction.
+
+**To all recruitment agencies:** Coalition does not accept unsolicited agency resumes. Do not forward resumes to our email alias, employees, or other physical or virtual organization locations. Coalition is not responsible for any fees related to unsolicited resumes.",,https://www.indeed.com/cmp/Coalition-Inc.-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/517168f4472467afeee540bed017ed73,https://www.coalitioninc.com/,"San Francisco, California","501 to 1,000",,"Cyber Risk, Solved.",,,,,,
+in-11d61bfce5179f87,indeed,https://www.indeed.com/viewjob?jk=11d61bfce5179f87,https://apply.appone.com:443/job/6a98671de44ee1285905e36c?utm_source=INDEED,Full Stack AI Engineer,Surge InfoTech LLC,"Alexandria, VA, USA",2026-09-03,fulltime,,,,,,False,,,,,"This role blends hands-on software engineering, applied AI, cloud-native development, and integration of generative AI accelerators into mission systems.
+
+#### **Job Description:**
+
+* Design, develop, and deploy AIenabled full stack applications that support document processing, intelligent search, generative AI use cases, and agentic workflows.
+* Implement and integrate reusable AI accelerators such as RAG pipelines, model orchestration layers, hybrid search components, and structured data generation capabilities.
+* Develop secure, cloudnative backend APIs and microservices (preferably AWSbased), data ingestion, and workflow automation.
+* Collaborate with data scientists to train, finetune, or evaluate machine learning and LLM models implemented within client systems.
+* Apply LLMOps best practices for model lifecycle, experimentation, telemetry, CI/CD, testing, and monitoring.
+* Ensure solutions comply with client security requirements, federal accessibility standards, and responsible AI principles.
+* Support rapid prototyping as well as hardening prototypes to productiongrade systems aligned to client modernization initiatives (e.g., intelligent document management, NLPdriven search, cloud migration).
+* Participate in sprint ceremonies, backlog refinement, and joint design sessions with product owners and technical leads.
+* Produce documentation, architecture diagrams, and deployment artifacts.
+
+#### **Required Qualifications:**
+
+* Experience building full stack applications using frameworks such as React, Angular, or Vue; and backend frameworks such as Node.js, Python FastAPI, or Java Spring.
+* Handson experience applying machine learning or LLM capabilities in production or nearproduction environments.
+* Strong Python skills for AI workflows and API development.
+* Experience with AWS services (e.g., Lambda, S3, ECS/EKS, API Gateway, CloudFormation/Terraform).
+* Familiarity with vector search, embeddings, RAG architectures, or NLP/LLMdriven systems.
+* Experience with DevOps tooling (GitLab/GitHub CI/CD, Docker, Kubernetes).
+* Ability to work directly with clients, refine requirements, and deliver iterative prototypes quickly.
+* Ability to successfully complete a Public Trust investigatio
+
+#### **About Surge InfoTech LLC**
+
+We are an IT Consulting Company specializing in transformative solutions. We provide comprehensive services including Enterprise Architecture, Application Modernization, and Talent Management. With a focus on innovation and efficiency, we empower businesses to navigate the complexities of the digital landscape. Our dedicated team of experts collaborates closely with clients to optimize their IT infrastructure, streamline applications, and cultivate a high-performing workforce. Through cutting-edge technologies and strategic insights, we drive sustainable growth and enhance operational excellence for organizations of all sizes.",,,,,,,,,,,,,,
+in-b9c5b60ebcef2f48,indeed,https://www.indeed.com/viewjob?jk=b9c5b60ebcef2f48,https://omni.jobs.agile-ats.com/jobs/details/12245,Software Engineer,Omni Federal,"St. Louis, MO, USA",2026-08-05,fulltime,,,,,,False,,,,,"Job Description
+  
+  
+**Job Title:** Software Engineer
+  
+**Location:** St. Louis, MO
+  
+**Security Clearance:** Active TS/SCI (or SCI eligibility)
+  
+  
+We question. We listen. We adapt.
+  
+Be honest. Be pragmatic.
+  
+Omni Federal, a Washington, DC-based software solutions provider founded in 2017, specializes in delivering mission-critical and enterprise solutions to the federal government. Originating from the Department of Defense's software factory ecosystem, Omni focuses on Command and Control, Cybersecurity, Space, Geospatial, and Modeling & Simulation. The company leverages commercial technology to enhance the capabilities of the DoD, IC, and their end-users, with innovation driven by its Omni Labs and SBIR Innovation centers. Omni has a presence in Washington D.C., Boston, MA, Colorado Springs, CO, San Antonio, TX, and St. Louis, MO.
+  
+Why Omni?
+  
+Environment of Autonomy
+  
+  
+Innovative Commercial Approach
+  
+  
+People over process
+  
+  
+We are looking for a passionate and mission-focused Principal Software Engineer to join our Geospatial Center of Excellence. This is a unique opportunity to be part of an exciting initiative at NGA, where modern software development practices are being used to address critical mission challenges for the agency and its users. You will be working with a modern technology stack, rapidly developing intelligence analysis products, and contributing to a culture of innovation. We seek candidates who are energized by modern architectures and eager to solve challenging client problems.
+  
+https://trajectorymagazine.com/software-is-core-to-ngas-mission/
+  
+  
+**Required Skills:**  
+5+ years of software development experience or 3+ with a Masters Degree
+  
+  
+Hands-on experience with Python in production application development environments or building large-scale ETL/data pipelines (beyond basic scripting)
+  
+  
+Experience with containerized application development and deployment using Docker or Podman on Kubernetes/OpenShift environments
+  
+  
+Experience with Git-based source control and GitLab CI/CD pipelines, including automated testing and deployment
+  
+  
+Experience with web services architecture, design, and development, including microservice architectures
+  
+  
+Experience with database design including relational, spatial, and NoSQL databases
+  
+  
+Experience with Agile methodologies, serving as a Scrum or team lead
+  
+  
+Active Top Secret clearance with SCI eligibility
+  
+  
+Bachelor's Degree in Computer Science or related field
+  
+  
+**Nice to Have:**  
+Experience building backend web services using FastAPI or Node.js
+  
+  
+Experience working with frontend JavaScript technologies (React, TypeScript, Angular, Node.js, etc.).
+  
+  
+Experience with React is highly preferred
+  
+  
+Experience with scientific Python libraries such as TensorFlow, SciPy, or Scikit-learn
+  
+  
+Experience developing cloud-native applications and services within AWS, including S3, ECR, Lambda, and SQS
+  
+  
+Experience with Spring applications
+  
+  
+Experience as a full-stack developer, including Web Services, Database, and Front-End Development
+  
+  
+Experience working with and developing Geospatial Information Systems (GIS), including open-source and proprietary geospatial formats
+  
+  
+,
+  
+About Omni Federal
+  
+  
+Omni Federal, founded in 2017 and headquartered in Washington, DC, is a highly specialized software solutions provider with a robust presence in key locations across the United States, including Boston, MA, Colorado Springs, CO, San Antonio, TX, and St. Louis, MO. Born out of the Department of Defense's software factory ecosystem, Omni has rapidly distinguished itself by delivering both mission-critical and enterprise solutions that enhance the technological capabilities of the federal government. With a focus on areas such as Command and Control, Cybersecurity, Space, Geospatial, and Modeling & Simulation, Omni leverages cutting-edge commercial technology tailored to government objectives, improving mission performance and delivering transformative outcomes for the Department of Defense (DoD), Intelligence Community (IC), and their end-users. The company's innovative approach is backed by its Omni Labs and SBIR Innovation centers, where they develop advanced platforms and tools in data mesh, secure connectivity, and intelligent automation.",,https://www.indeed.com/cmp/Omni-Federal,,,,,,,,,5.0,1.0,,
+in-bba6ebc06e0f2c81,indeed,https://www.indeed.com/viewjob?jk=bba6ebc06e0f2c81,https://brd.bamboohr.com/careers/79?source=indeed&src=indeed&postedDate=2026-07-30,Software Engineer,"Blue Ridge Dynamics, Inc","Chantilly, VA, USA",2026-07-21,fulltime,,,,,,False,,,,,"Software Engineer
+
+Blue Ridge Dynamics is seeking a Software Engineer to design, build, and support the services, APIs, databases, and integrations that power modern web applications.
+
+The ideal candidate has experience developing production backend systems using Node.js, TypeScript, and PostgreSQL. You will work closely with frontend developers, designers, technical leads, and project managers to deliver secure, reliable, and maintainable software solutions.
+
+Responsibilities
+
+* Develop and maintain backend applications and services using Node.js and TypeScript.
+* Design and build secure RESTful APIs.
+* Create and maintain database schemas, queries, migrations, and data-access patterns.
+* Integrate applications with external systems, data repositories, cloud services, and third-party APIs.
+* Implement authentication, authorization, and secure data-handling practices.
+* Write clean, tested, and well-documented code.
+* Troubleshoot application, database, performance, and integration issues.
+* Support Docker-based development, CI/CD pipelines, and application deployments.
+* Participate in architecture discussions, code reviews, and Agile development activities.
+
+Required Qualifications
+
+* At least two years of professional backend development experience.
+* Strong experience with JavaScript or TypeScript and Node.js.
+* Experience with frameworks such as NestJS, Fastify, or Express.
+* Experience designing and developing RESTful APIs.
+* Experience with PostgreSQL, MySQL, or another relational database.
+* Understanding of database design, indexing, transactions, and query optimization.
+* Experience with Git, automated testing, debugging, and secure coding practices.
+* Strong problem-solving and communication skills.
+
+Preferred Qualifications
+
+* Experience with TypeScript, NestJS, Fastify, PostgreSQL, or Drizzle ORM.
+* Experience with Docker, Kubernetes, AWS, Azure, or Google Cloud.
+* Familiarity with OAuth 2.0, OpenID Connect, JWT, and role-based access control.
+* Experience with CI/CD pipelines, object storage, microservices, background processing, or offline data synchronization.
+* Experience supporting applications in government, restricted, or disconnected environments.
+
+  
+
+Employment may be subject to customer-specific citizenship, security-clearance, background-investigation, or facility-access requirements.
+
+Blue Ridge Dynamics is an equal opportunity employer.",,"https://www.indeed.com/cmp/Blue-Ridge-Dynamics,-Inc-1",,,,,,,,,,,,
+in-786a4cc2fe003135,indeed,https://www.indeed.com/viewjob?jk=786a4cc2fe003135,https://grnh.se/im9a6m3a4us,Software Engineer III,Cleerly,"Remote, USA",2026-07-17,,direct_data,yearly,129000.0,165200.0,USD,False,,,,,"**About Cleerly**
+
+We're Cleerly – a healthcare company that's revolutionizing how heart disease is diagnosed, treated, and tracked. We were founded in 2017 by one of the world's leading cardiologists and are a growing team. Most of our teams work remotely and have access to our offices in Denver, Colorado, New, York, New York, Dallas, Texas, and Lisbon, Portugal with some roles requiring you to be on-site in a location.
+
+Cleerly has created a new standard of care for heart disease through value-based, AI-driven precision diagnostic solutions with the goal of helping prevent heart attacks. Our technology goes beyond traditional measures of heart disease by enabling comprehensive quantification and characterization of atherosclerosis, or plaque buildup, in each of the heart arteries. Cleerly's solutions are supported by more than a decade of performing some of the world's largest clinical trials to identify important findings beyond symptoms that increase a person's risk of heart attacks.
+
+At Cleerly, we collaborate digitally and use a wide variety of systems. Our people use Google Workspace (GMail, Drive, Docs, Sheets, Slides), Slack, Confluence/Jira, and Zoom Video, prior experience in these areas is a plus. Role or department specific technology needs may vary and will be listed as requirements in the job description.
+
+While we are mostly a remote company, travel is required for some team meetings and cross function projects typically once per month or once per quarter, for some roles like sales or external facing roles travel could be up to 90% of the time.
+
+*Cleerly is committed to providing safe and effective medical software that meets customer needs and our intended use. The adherence to all applicable regulatory and statutory requirements establishes a clear framework for setting measurable quality objectives. Our commitment to continually improving our products and processes proactively manages risks, ensuring ongoing compliance throughout the entire software lifecycle. Understanding this role's relevance and importance is critical to achieving Cleerly's quality objectives.*
+
+### **About the Opportunity**
+
+We're seeking a Software Engineer III with strong fullstack skills to help scale and evolve our enterprise-grade platform for quantitative computer-aided diagnosis. In this role, you'll be a key contributor to the development of secure, reliable, and maintainable systems, delivering high-impact features and improving the foundation that powers our healthcare solutions.
+
+The Operational System team owns the Core Lab Case Management platform, which is the central nervous system of our laboratory operations. We build the workflows that orchestrate the lifecycle of each case, ensuring that complex case data moves seamlessly through the lab and is categorized and prioritized correctly. By optimizing how cases are processed, we ensure our operations remain scalable and our COGS grows efficiently, not linearly, alongside our business.
+
+**Requirements**
+----------------
+
+### **Qualifications**
+
+* Bachelor's or Master's degree in Computer Science, Software Engineering, or related field (or equivalent experience).
+* 5–8 years of professional experience as a software engineer, including fullstack development.
+* Proficiency in React, CSS, Node.js, and TypeScript.
+* Experience designing and consuming RESTful APIs.
+* Familiarity with relational databases like PostgreSQL.
+* Strong understanding of modern software engineering practices, system design, and debugging.
+* Ability to take ownership of medium-to-large features and follow through from idea to production.
+* Effective communication and collaboration skills, especially in distributed environments.
+
+### **Preferred**
+
+* Familiarity with regulated domains (e.g., healthcare, fintech) and high-availability infrastructure.
+
+* Experience with containerized cloud environments (Docker, AWS EKS), CI/CD automation, and infrastructure as code.
+* Exposure to event-driven architecture or microservices with asynchronous workflows.
+* Familiarity with Python is a plus
+
+**Responsibilities**
+--------------------
+
+* Develop scalable backend services (Node.js, TypeScript) and performant user-facing applications (React, Next.js).
+* Build performant, accessible, and user-friendly interfaces with modern UI frameworks (Ant).
+* Write testable, observable, and maintainable code that meets our performance and quality standards.
+* Participate in system design reviews and propose practical, scalable improvements.
+* Collaborate with product, design, and engineering teammates in an agile team to deliver reliable solutions to stakeholders.
+* Contribute to documentation, code reviews, and shared engineering standards.
+* Participate in on-call rotations and assist with triaging production issues.
+
+  
+
+***OUR COMPANY IS AN EQUAL OPPORTUNITY EMPLOYER.*** *We do not discriminate on the basis of race, color, national origin, ancestry, citizenship status, protected veteran status, religion, physical or mental disability, marital status, sex, sexual orientation, gender identity or expression, age, or any other basis protected by law, ordinance, or regulation.*
+
+  
+
+*Job duties, activities, and responsibilities are subject to change by our company.*
+
+  
+
+The base salary range for this role varies by location and is aligned to market benchmarks.
+
+* Candidates located in **higher-cost labor markets**, including California, Washington, New York, New Jersey, Connecticut, Massachusetts, and Washington, DC represent the middle to high end of the range, while candidates located in **all other U.S. locations** represent the low to middle end of the range.
+* Final compensation is determined based on location, experience, skills, and internal equity.
+
+This role is eligible for a **15% target annual bonus**, resulting in the following **base salary** and **Total Target Compensation (TTC)** ranges:
+
+* **Base Salary:** ***$129,000 - $152,000***
+* **TTC:** ***$141,900 - $165,200***
+
+* Total Target Compensation (TTC): Total Cash Compensation (including base pay, variable pay, commission, bonuses, etc.) Additionally, stock options, paid benefits, and employee perks are part of your total rewards.
+
+**Working at Cleerly takes HEART. Discover our Core Values:**
+
+* **H: Humility**- be a servant leader
+* **E: Excellence**- deliver world-changing results
+* **A: Accountability**- do what you say; expect the same from others
+* **R: Remarkable**- inspire & innovate with impact
+* **T: Teamwork**- together we win
+
+Don't meet 100 percent of the qualifications? Apply anyway and help us diversify our candidate pool and workforce. We value experience, whether gained formally or informally on the job or through other experiences. *Job duties, activities and responsibilities are subject to change by our company.*
+
+***OUR COMPANY IS AN EQUAL OPPORTUNITY EMPLOYER.*** *We do not discriminate on the basis of race, color, national origin, ancestry, citizenship status, protected veteran status, religion, physical or mental disability, marital status, sex, sexual orientation, gender identity or expression, age, or any other basis protected by law, ordinance, or regulation.*
+
+For more information see our Privacy Policy (https://cleerlyhealth.com/privacy-policy). All official emails will come from @cleerlyhealth.com email accounts.
+
+#Cleerly",,https://www.indeed.com/cmp/Cleerly,,https://www.cleerly.com,Colorado Springs,11 to 50,,,,,,,,
+in-d6fc4acf27fe5cb7,indeed,https://www.indeed.com/viewjob?jk=d6fc4acf27fe5cb7,https://omni.jobs.agile-ats.com/jobs/details/12227,Senior Software Engineer,Omni Federal,"Springfield, VA, USA",2026-07-09,fulltime,direct_data,yearly,180000.0,202400.0,USD,False,,,,,"Job Description
+  
+  
+**Job Title:** Senior Software Engineer
+  
+**Location:** Springfield, VA
+  
+**Security Clearance:** Active TS/SCI (or SCI eligibility)
+  
+  
+We question. We listen. We adapt.
+  
+Be honest. Be pragmatic.
+  
+Omni Federal, a Washington, DC-based software solutions provider founded in 2017, specializes in delivering mission-critical and enterprise solutions to the federal government. Originating from the Department of Defense's software factory ecosystem, Omni focuses on Command and Control, Cybersecurity, Space, Geospatial, and Modeling & Simulation. The company leverages commercial technology to enhance the capabilities of the DoD, IC, and their end-users, with innovation driven by its Omni Labs and SBIR Innovation centers. Omni has a presence in Washington D.C., Boston, MA, Colorado Springs, CO, San Antonio, TX, and St. Louis, MO.
+  
+Why Omni?
+  
+Environment of Autonomy
+  
+  
+Innovative Commercial Approach
+  
+  
+People over process
+  
+  
+We are looking for a passionate and mission-focused Principal Software Engineer to join our Geospatial Center of Excellence. This is a unique opportunity to be part of an exciting initiative at NGA, where modern software development practices are being used to address critical mission challenges for the agency and its users. You will be working with a modern technology stack, rapidly developing intelligence analysis products, and contributing to a culture of innovation. We seek candidates who are energized by modern architectures and eager to solve challenging client problems.
+  
+  
+**Required Skills:**  
+10+ years of software development experience
+  
+  
+Hands-on experience with Python in production application development environments or building large-scale ETL/data pipelines (beyond basic scripting)
+  
+  
+Experience with containerized application development and deployment using Docker or Podman on Kubernetes/OpenShift environments
+  
+  
+Experience with Git-based source control and GitLab CI/CD pipelines, including automated testing and deployment
+  
+  
+Experience with web services architecture, design, and development, including microservice architectures
+  
+  
+Experience with database design including relational, spatial, and NoSQL databases
+  
+  
+Experience with Agile methodologies, serving as a Scrum or team lead
+  
+  
+Active Top Secret clearance with SCI eligibility
+  
+  
+Bachelor's Degree in Computer Science or related field
+  
+  
+**Nice to Have:**  
+Experience building backend web services using FastAPI or Node.js
+  
+  
+Experience working with JavaScript framework technologies (React, TypeScript, Angular, Node.js, etc.).
+  
+  
+Experience with React is highly preferred
+  
+  
+Experience with scientific Python libraries such as TensorFlow, SciPy, or Scikit-learn
+  
+  
+Experience developing cloud-native applications and services within AWS, including S3, ECR, Lambda, and SQS
+  
+  
+Experience with Spring applications
+  
+  
+Experience as a full-stack developer, including Web Services, Database, and Front-End Development
+  
+  
+Experience working with and developing Geospatial Information Systems (GIS), including open-source and proprietary geospatial formats
+  
+  
+About Us
+  
+  
+Omni Federal is an equal opportunity and affirmative action employer. Omni Federal is committed to administering all employment and personnel actions on the basis of merit and free of discrimination based on race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or status as an individual with a disability. Consistent with this commitment, we are dedicated to the employment and advancement of qualified minorities, women, individuals with disabilities, protected veterans, persons of all ethnic backgrounds and religions according to their abilities.
+  
+  
+**Proposed Pay Scale:** $180,000 - $202,400
+  
+,
+  
+About Omni Federal
+  
+  
+Omni Federal, founded in 2017 and headquartered in Washington, DC, is a highly specialized software solutions provider with a robust presence in key locations across the United States, including Boston, MA, Colorado Springs, CO, San Antonio, TX, and St. Louis, MO. Born out of the Department of Defense's software factory ecosystem, Omni has rapidly distinguished itself by delivering both mission-critical and enterprise solutions that enhance the technological capabilities of the federal government. With a focus on areas such as Command and Control, Cybersecurity, Space, Geospatial, and Modeling & Simulation, Omni leverages cutting-edge commercial technology tailored to government objectives, improving mission performance and delivering transformative outcomes for the Department of Defense (DoD), Intelligence Community (IC), and their end-users. The company's innovative approach is backed by its Omni Labs and SBIR Innovation centers, where they develop advanced platforms and tools in data mesh, secure connectivity, and intelligent automation.",,https://www.indeed.com/cmp/Omni-Federal,,,,,,,,,5.0,1.0,,
+in-217925277b3399fb,indeed,https://www.indeed.com/viewjob?jk=217925277b3399fb,https://ats.rippling.com/easy-dynamics-corporation/jobs/c6ee70e2-453d-40e3-a34c-469c69956621?jobSite=Indeed,Software Engineer,Easy Dynamics,"McLean, VA, USA",2026-07-02,fulltime,direct_data,yearly,150000.0,200000.0,USD,False,,,,,"**About Easy Dynamics Corporation**
+
+Easy Dynamics is a leading IT service provider specializing in cybersecurity, cloud computing, and risk management for federal agencies. Since 2006, we have partnered with our customers *to design, build, and secure the systems that protect our people, places, and way of life.* Our work is grounded in deep technical expertise, thoughtful problem-solving, and a clear understanding of the complex environments our customers operate in.
+
+Our world-class team of engineers, consultants, and subject-matter experts are builders, problem-solvers, and trusted advisors who thrive on solving unique and ever-evolving digital challenges. We bring a hands-on, mission-focused approach to every engagement, delivering solutions that are built to last.
+
+**What you'll do**
+
+* Design, develop, and maintain backend services using Python 3, FastAPI, Pydantic, and SQLAlchemy.
+* Build and maintain REST APIs that support OSCAL-based compliance workflows, document management, metadata updates, authentication, and user-facing application features.
+* Work with relational databases across local and production-like environments, including SQLite, PostgreSQL, and Microsoft SQL Server.
+* Implement and maintain database models, query logic, migrations, and data access patterns using SQLAlchemy and Alembic.
+* Build frontend features using React, TypeScript, Vite, Material UI, React Router, React Hook Form, Zod, and related modern frontend tooling.
+* Integrate frontend workflows with backend APIs, including form validation, document editing, schema validation, error handling, and user-facing state updates.
+* Write and maintain automated tests, including backend pytest tests and frontend Playwright end-to-end tests.
+* Participate in CI/CD maintenance using GitHub Actions, npm, uv, Docker, and build/test/lint/publish pipelines.
+* Support Azure deployment workflows using Bicep and PowerShell for tenant-based application infrastructure.
+* Debug issues across the full stack, including API behavior, database differences, frontend state, browser behavior, authentication flows, and deployment configuration.
+* Collaborate through GitHub pull requests, code reviews, issue discussion, and iterative feature development.
+* Write clean, maintainable, typed, and well-tested code that follows existing project conventions.
+* Ability to work in office 3-5 days per week.
+* Participate in team meetings for knowledge sharing and status updates.
+
+**Required Qualifications**
+
+* 3+ years of professional software development experience, or equivalent demonstrated ability.
+* Bachelor’s degree in Engineering or a related technical field required, with preference for Computer Science, Computer Engineering, or Software Engineering.
+* Strong Python backend development experience.
+* Experience building APIs with FastAPI or a similar modern Python web framework.
+* Experience with Pydantic or similar data validation/modeling libraries.
+* Experience with SQLAlchemy and relational database-backed applications.
+* Comfortable writing SQL-aware application code and debugging database-specific behavior.
+* Strong React and TypeScript experience.
+* Experience with Node.js, npm, Vite or comparable frontend build tooling.
+* Experience building production-style frontend workflows with forms, validation, routing, API integration, and reusable components.
+* Experience writing automated tests for backend and/or frontend code.
+* Familiarity with Git, GitHub pull requests, code review, branching, and collaborative development workflows.
+* Ability to troubleshoot across multiple layers of an application instead of staying limited to one tier.
+* Clear written communication and ability to explain technical decisions in PRs, issues, and team discussions.
+
+**Preferred Qualifications**
+
+* Experience with Microsoft Azure services, especially Azure Container Apps, Azure SQL, managed identities, Static Web Apps, or related deployment models.
+* Experience with Infrastructure as Code, especially Bicep, ARM templates, Terraform, or similar.
+* Experience with GitHub Actions CI/CD pipelines.
+* Experience with Docker-based local development and deployment workflows.
+* Experience with Microsoft SQL Server and PostgreSQL.
+* Experience with Playwright, pytest, Ruff, Pyright, ESLint, Prettier, or similar quality tooling.
+* Experience with Material UI or another mature component library.
+* Experience working with JSON Schema, structured document models, or complex nested JSON data.
+* Familiarity with OSCAL, NIST 800-series guidance, RMF, FedRAMP, or security/compliance automation.
+* Experience in regulated, security-conscious, government, or enterprise SaaS environments.
+
+**Nice-to-Have Domain Knowledge**
+
+* OSCAL catalog, profile, system security plan, assessment plan, assessment result, POA&M, or component definition concepts.
+* NIST Risk Management Framework terminology and workflows.
+* Security control inheritance, implementation statements, compliance evidence, assessment artifacts, or authorization package workflows.
+* Experience building tools for governance, risk, compliance, cybersecurity, or audit teams.
+
+**What Success Looks Like**
+
+Within the first few months, this developer should be able to:
+
+  
+
+* Pick up a scoped full stack issue and deliver it through PR review.
+* Modify/implement a FastAPI endpoint, Pydantic model, SQLAlchemy query, or service layer safely.
+* Add or update a React/TypeScript UI flow using existing Material UI patterns.
+* Write meaningful pytest or Playwright coverage for their change.
+* Run and interpret local checks such as backend tests, frontend typecheck/build/lint, and Playwright tests.
+* Debug behavior differences between SQLite, PostgreSQL, and MSSQL when needed.
+* Understand enough OSCAL and compliance terminology to ask good questions and model data correctly.
+
+**Salary Range:** $150,000–$200,000 based on experience and qualifications
+
+Easy Dynamics is an equal opportunity employer. Applicants are considered for positions without discrimination on the basis of race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity, veteran status or any other consideration made unlawful by applicable federal state or local laws.",,https://www.indeed.com/cmp/Easy-Dynamics,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7a7ab730eff34dddc70b4bb2473b5acc,http://www.easydynamics.com,Mc Lean,2 to 10,$1M to $5M (USD),,,,3.6,5.0,,
+in-1558e6b5c49334b3,indeed,https://www.indeed.com/viewjob?jk=1558e6b5c49334b3,https://careerspage.io/useblocky/senior-blockchain-engineer-us101?src=17,Senior Blockchain Engineer,UseBlocky,"Remote, USA",2026-06-12,fulltime,,,,,,True,,,,,"### **About UseBlocky**
+
+**UseBlocky is a global technology company specializing in Blockchain, Web3, AI, and custom software development. Founded in 2020, the company helps startups, enterprises, and SMBs build innovative digital products, including decentralized applications (dApps), smart contracts, crypto platforms, mobile applications, and scalable web solutions. UseBlocky combines deep technical expertise with a remote-first culture, empowering teams to deliver cutting-edge products across industries such as fintech, blockchain gaming, DeFi, and emerging technologies. The company is committed to innovation, continuous learning, and creating impactful solutions that shape the future of digital experiences.**
+
+### **About the Role**
+
+**We are looking for a highly skilled Senior Blockchain Engineer to join our engineering team and help design, build, and scale secure blockchain-based products. The ideal candidate has strong experience in smart contract development, blockchain protocols, decentralized applications, and backend systems.**
+
+**You will work closely with product, engineering, and security teams to develop robust Web3 solutions, contribute to technical architecture, and ensure our blockchain infrastructure is secure, scalable, and reliable.**
+
+### **Key Responsibilities**
+
+* **Design, develop, test, and deploy smart contracts and blockchain-based applications.**
+* **Build and maintain decentralized applications, blockchain integrations, and backend services.**
+* **Work with blockchain networks such as Ethereum, Polygon, Solana, BNB Chain, Avalanche, or similar ecosystems.**
+* **Review and optimize smart contracts for security, gas efficiency, and performance.**
+* **Collaborate with frontend, backend, product, and security teams to deliver high-quality Web3 products.**
+* **Participate in architecture decisions and contribute to technical strategy.**
+* **Integrate wallets, token standards, DeFi protocols, NFTs, DAOs, or other blockchain infrastructure as needed.**
+* **Write clean, maintainable, well-documented code.**
+* **Conduct code reviews and mentor junior engineers.**
+* **Stay current with emerging blockchain technologies, security standards, and industry best practices.**
+
+### **Required Qualifications**
+
+* **5+ years of professional software engineering experience.**
+* **3+ years of hands-on blockchain or Web3 development experience.**
+* **Strong experience with Solidity, Rust, Go, or other blockchain-related programming languages.**
+* **Experience developing and deploying smart contracts on mainnet or testnet environments.**
+* **Strong understanding of blockchain concepts, including consensus mechanisms, wallets, private keys, transactions, gas fees, bridges, and token standards.**
+* **Experience with frameworks and tools such as Hardhat, Foundry, Truffle, Web3.js, Ethers.js, Anchor, or similar.**
+* **Solid backend development experience using Node.js, TypeScript, Go, Python, or similar technologies.**
+* **Strong understanding of security best practices for smart contracts and decentralized systems.**
+* **Experience with Git, CI/CD workflows, APIs, databases, and cloud infrastructure.**
+* **Excellent problem-solving, communication, and teamwork skills.**
+
+### **Nice to Have**
+
+* **Experience with DeFi, staking, tokenomics, NFT platforms, Layer 2 solutions, or cross-chain protocols.**
+* **Familiarity with smart contract audits and formal verification.**
+* **Open-source contributions in the blockchain or Web3 ecosystem.**
+* **Experience with indexing tools such as The Graph.**
+* **Knowledge of zero-knowledge proofs, account abstraction, MEV, or rollup technologies.**
+* **Previous experience working in a startup or fast-paced product environment.**
+
+### **What We Offer**
+
+* **Competitive salary and performance-based incentives.**
+* **Flexible working environment.**
+* **Opportunity to work on innovative blockchain and Web3 products.**
+* **Collaborative and growth-focused team culture.**
+* **Professional development and learning opportunities.**
+* **The chance to make a meaningful impact in a rapidly growing industry.**
+
+### **How to Apply**
+
+**Please submit your resume, GitHub profile, portfolio, or examples of previous blockchain projects. We would love to hear about smart contracts, protocols, or Web3 applications you have built or contributed to.**
+
+**Join us and help build the future of decentralized technology.**",,,,,,,,,,,,,,
+li-4476831165,linkedin,https://www.linkedin.com/jobs/view/4476831165,,Sr. Software Engineer - Backend,"Lively, Inc.","Denver, CO, USA",2026-10-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/livelyhsa,,,,,,,,,,,,
+li-4479376936,linkedin,https://www.linkedin.com/jobs/view/4479376936,,Sr. Software Engineer - Backend (PST / MST ONLY),"Lively, Inc.","Salt Lake City, UT, USA",2026-10-16,,,,,,,False,,,,,,,https://www.linkedin.com/company/livelyhsa,,,,,,,,,,,,
+li-4478476015,linkedin,https://www.linkedin.com/jobs/view/4478476015,,Senior Software Applications Engineer,Autodesk,"Novi, MI, USA",2026-10-14,,,,,,,False,,,,,,,https://www.linkedin.com/company/autodesk,,,,,,,,,,,,
+li-4469924360,linkedin,https://www.linkedin.com/jobs/view/4469924360,,Senior Software Engineer II - Backend,LVT (LiveView Technologies),"American Fork, UT, USA",2026-10-13,,,,,,,False,,,,,,,https://www.linkedin.com/company/lvt,,,,,,,,,,,,
+li-4478898829,linkedin,https://www.linkedin.com/jobs/view/4478898829,,Senior Backend JavaScript Developer - San Francisco,Bright Data,"San Francisco, CA, USA",2026-09-20,,,,,,,False,,,,,,,https://www.linkedin.com/company/bright-data,,,,,,,,,,,,
+li-4466174709,linkedin,https://www.linkedin.com/jobs/view/4466174709,,"Senior Backend Engineer, Core Services",Ellipsis Health,"San Francisco, CA, USA",2026-09-15,,,,,,,False,,,,,,,https://www.linkedin.com/company/ellipsis-health,,,,,,,,,,,,
+li-4465379385,linkedin,https://www.linkedin.com/jobs/view/4465379385,,Senior Backend Software Engineer - Node.js/TypeScript,Makai Labs,"Raleigh, NC, USA",2026-09-10,,,,,,,False,,,,,,,https://www.linkedin.com/company/makai-labs,,,,,,,,,,,,
+li-4443542887,linkedin,https://www.linkedin.com/jobs/view/4443542887,,Senior Backend Software Engineer - Node.js/TypeScript,Makai Labs,"New York, USA",2026-07-21,,,,,,,False,,,,,,,https://www.linkedin.com/company/makai-labs,,,,,,,,,,,,
+li-4374164230,linkedin,https://www.linkedin.com/jobs/view/4374164230,,Senior Backend Engineer (Node.js),Fanfix,"West Hollywood, CA, USA",2026-01-23,,,,,,,False,,,,,,,https://www.linkedin.com/company/fanfix,,,,,,,,,,,,
+li-4318509487,linkedin,https://www.linkedin.com/jobs/view/4318509487,,Senior Backend Engineer (Remote),Zencastr,"San Francisco, CA, USA",2025-10-22,,,,,,,True,,,,,,,https://www.linkedin.com/company/zencastr,,,,,,,,,,,,

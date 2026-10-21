@@ -1,26 +1,47 @@
 const { searchJobs, getJobById } = require('../services/jobs/jobService')
-const Job     = require('../models/Job')
+const Job = require('../models/Job')
 const SavedJob = require('../models/SavedJob')
 
 // ─────────────────────────────────────────────────────────────────
-// @desc    Search jobs via external API
-// @route   GET /api/jobs?query=react&location=NYC&page=1
+// @desc    Search jobs via JobSpy multi-platform scraper
+// @route   GET /api/jobs?query=react&location=NYC&sites=linkedin,indeed&isRemote=true&country=usa
 // @access  Public
 // ─────────────────────────────────────────────────────────────────
 const searchJobsHandler = async (req, res) => {
   try {
-    const { query = '', location = '', page = 1 } = req.query
+    const {
+      query = '',
+      location = '',
+      sites = '',
+      isRemote = '',
+      jobType = '',
+      country = '',
+      resultsWanted = 15,
+      hoursOld = '',
+    } = req.query
 
     if (!query.trim()) {
       return res.status(400).json({ success: false, message: 'Search query is required' })
     }
 
-    const jobs = await searchJobs(query.trim(), location.trim(), Number(page))
+    const jobs = await searchJobs({
+      query: query.trim(),
+      location: location.trim(),
+      sites: sites ? sites.trim() : 'linkedin,indeed',
+      isRemote: isRemote === 'true' || isRemote === true,
+      jobType: jobType.trim(),
+      countryIndeed: country.trim() || 'usa',
+      resultsWanted: parseInt(resultsWanted, 10) || 15,
+      hoursOld: hoursOld ? parseInt(hoursOld, 10) : undefined,
+    })
 
     return res.status(200).json({ success: true, count: jobs.length, data: jobs })
   } catch (err) {
     console.error('Job search error:', err.message)
-    return res.status(502).json({ success: false, message: 'Job API unavailable. Please try again later.' })
+    return res.status(502).json({
+      success: false,
+      message: 'Job scraping service temporarily unavailable. Please try again.',
+    })
   }
 }
 
@@ -41,7 +62,6 @@ const getJobHandler = async (req, res) => {
     const savedJob = await SavedJob.findOne({ 'jobData.externalId': id })
     if (savedJob) return res.status(200).json({ success: true, data: savedJob.jobData })
 
-    // 3. OWN API has no single-job endpoint — return helpful message
     return res.status(404).json({
       success: false,
       message: 'Job not found in cache. Please navigate to this job from search results.',
@@ -62,8 +82,8 @@ const saveJobHandler = async (req, res) => {
     const { id } = req.params
     const userId = req.user.id
 
-    // Get the job data (from cache or API)
-    let jobData = req.body.jobData // client can pass jobData directly to avoid a second API call
+    // Get the job data (from cache or request body)
+    let jobData = req.body.jobData
 
     if (!jobData) {
       const cached = await Job.findOne({ externalId: id })
