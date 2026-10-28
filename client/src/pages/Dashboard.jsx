@@ -125,7 +125,7 @@ export default function Dashboard() {
         </p>
       </div>
 
-      {/* ── Stats row ────────────────────────────────────────── */}
+      {/* ── Stistics row ────────────────────────────────────────── */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-10">
         {stats.map((s) => (
           <button

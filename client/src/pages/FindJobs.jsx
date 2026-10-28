@@ -423,11 +423,7 @@ export default function FindJobs() {
                         className="w-11 h-11 rounded-xl object-contain bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800 p-1 shrink-0"
                         onError={(e) => { e.target.style.display = 'none' }}
                       />
-                    ) : (
-                      <div className="w-10 h-10 rounded-xl bg-violet-50 dark:bg-gray-800 border border-violet-200 dark:border-gray-700/60 flex items-center justify-center text-violet-600 dark:text-violet-400 font-bold text-sm shrink-0">
-                        {job.company.name?.[0]?.toUpperCase() || 'J'}
-                      </div>
-                    )}
+                    ) : ("")}
                   </div>
 
                   {/* Badges: Location, Remote, Salary */}

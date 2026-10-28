@@ -187,6 +187,41 @@ const runPythonScraper = (options) => {
 }
 
 /**
+ * Sorts jobs so that jobs containing the search term in their title appear at the top.
+ *
+ * @param {object[]} jobList - Array of job objects
+ * @param {string} searchTerm - Search term to match against job titles
+ * @returns {object[]} Sorted array of job objects
+ */
+const sortByTitleRelevance = (jobList, searchTerm) => {
+  if (!searchTerm || !Array.isArray(jobList)) return jobList
+
+  const term = searchTerm.trim().toLowerCase()
+  const words = term.split(/\s+/).filter(Boolean)
+
+  return jobList.sort((a, b) => {
+    const titleA = (a?.title || '').toLowerCase()
+    const titleB = (b?.title || '').toLowerCase()
+
+    const aHasFull = titleA.includes(term) ? 1 : 0
+    const bHasFull = titleB.includes(term) ? 1 : 0
+
+    if (aHasFull !== bHasFull) {
+      return bHasFull - aHasFull // Full search phrase in title appears first
+    }
+
+    const aWordCount = words.reduce((acc, word) => acc + (titleA.includes(word) ? 1 : 0), 0)
+    const bWordCount = words.reduce((acc, word) => acc + (titleB.includes(word) ? 1 : 0), 0)
+
+    if (aWordCount !== bWordCount) {
+      return bWordCount - aWordCount // More matched words in title appear first
+    }
+
+    return 0
+  })
+}
+
+/**
  * Search jobs using JobSpy scraper and converts CSV to internal Standard Job JSON.
  *
  * @param {object} params
@@ -248,6 +283,9 @@ const searchJobs = async (params) => {
       ).catch(() => {})
     }
 
+    // Sort jobs so that relevant jobs with the search term in their title appear at the top
+    sortByTitleRelevance(standardJobs, query)
+
     return standardJobs
   } catch (err) {
     console.error('JobSpy scrape failed:', err.message)
@@ -262,7 +300,9 @@ const searchJobs = async (params) => {
         .limit(options.resultsWanted || 15)
 
       if (cached && cached.length > 0) {
-        return cached.map((c) => c.toObject())
+        const fallbackJobs = cached.map((c) => c.toObject())
+        sortByTitleRelevance(fallbackJobs, query)
+        return fallbackJobs
       }
     } catch {
       // ignore fallback error
@@ -296,4 +336,5 @@ module.exports = {
   searchJobs,
   getJobById,
   convertCsvRowToJob,
+  sortByTitleRelevance,
 }

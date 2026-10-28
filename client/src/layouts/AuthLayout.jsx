@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { Link, Outlet, useLocation, useNavigate } from 'react-router-dom'
 import { useAuth } from '../context/AuthContext'
+import { useTheme } from '../context/ThemeContext'
 import ThemeToggle from '../components/ui/ThemeToggle'
 
 const NAV_TABS = [
@@ -15,6 +16,7 @@ const NAV_TABS = [
 export default function AuthLayout() {
   const { pathname } = useLocation()
   const { user, logout } = useAuth()
+  const { theme } = useTheme()
   const navigate = useNavigate()
   const [menuOpen, setMenuOpen] = useState(false)
   const [profileOpen, setProfileOpen] = useState(false)
@@ -81,7 +83,11 @@ export default function AuthLayout() {
 
           {/* Logo */}
           <Link to="/dashboard" className="shrink-0 flex items-center gap-2" onClick={() => setMenuOpen(false)}>
-            <img src="/logo.jpeg" alt="Resume++" className="h-16 w-auto rounded-lg shadow-sm" />
+            <img
+              src={theme === 'dark' ? '/logo.jpeg' : '/logo1.jpeg'}
+              alt="Resume++"
+              className="h-16 w-auto rounded-lg shadow-sm"
+            />
           </Link>
 
           {/* Desktop nav tabs — hidden on mobile */}
